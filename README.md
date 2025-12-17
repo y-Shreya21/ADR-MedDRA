@@ -54,18 +54,57 @@ streamlit run app.py
 
 ```
 ADR-MedDRA/
-├── product/                     # Main application
-│   ├── app.py                  # Streamlit web interface
-│   ├── model.py                # MedDRA matching model
-│   ├── drug_extractor.py       # Drug extraction logic
-│   ├── requirements.txt        # Python dependencies
-│   └── data/
-│       ├── meddra_terms.csv    # MedDRA terms database
-│       └── adr_drug_knowledge.csv  # Drug-ADR associations
-├── dataset/                    # Raw data and processing
-├── *.csv                      # Processed datasets
-└── *.ipynb                    # Jupyter notebooks for data processing
+├── 📂 product/                     # Production-ready application
+│   ├── app.py                     # Streamlit web interface
+│   ├── model.py                   # MedDRA matching model
+│   ├── drug_extractor.py          # Drug extraction logic
+│   ├── attribution.py             # Attribution and disclaimers
+│   ├── requirements.txt           # Production dependencies
+│   └── data/                      # Production data files
+│       ├── meddra_terms.csv       # MedDRA terms database
+│       └── adr_drug_knowledge.csv # Drug-ADR associations
+│
+├── 📂 src/                         # Development source code
+│   ├── app.py                     # Development Streamlit app
+│   ├── model.py                   # Development model
+│   ├── drug_extractor.py          # Development drug extraction
+│   └── attribution.py             # Development attribution
+│
+├── 📂 notebooks/                   # Jupyter notebooks for analysis
+│   ├── PT_Extract.ipynb           # Preferred Term extraction analysis
+│   └── UNZIPY.ipynb              # Data processing and evaluation
+│
+├── 📂 results/                     # Analysis results and datasets
+│   ├── cadec_adr.csv             # CADEC ADR dataset
+│   ├── error_analysis.csv        # Error analysis results
+│   ├── final_cadec_meddra_dataset.csv # Final processed dataset
+│   └── results.csv               # Model evaluation results
+│
+├── 📂 data/                        # Core data files
+│   ├── meddra_terms.csv          # MedDRA terms database
+│   └── adr_drug_knowledge.csv    # Drug-ADR knowledge base
+│
+├── 📂 dataset/                     # Raw datasets and metadata
+│   └── data/CADEC.v2/            # CADEC corpus data
+│
+├── 📂 docs/                        # Documentation
+│   └── PROJECT_STRUCTURE.md       # Detailed structure guide
+│
+├── 📂 research/                    # Research documentation and findings
+│   ├── METHODOLOGY.md             # Research methodology and objectives
+│   └── EXPERIMENT_LOG.md          # Detailed experiment logs and results
+│
+├── 📂 deployment/                  # Deployment configurations and scripts
+│   ├── DEPLOYMENT_GUIDE.md        # Comprehensive deployment guide
+│   ├── Dockerfile                 # Docker container configuration
+│   ├── docker-compose.yml         # Multi-container orchestration
+│   ├── deploy.sh                  # Automated deployment script
+│   └── nginx.conf                 # Reverse proxy configuration
+│
+└── requirements.txt                # Development dependencies
 ```
+
+> 📖 **Detailed Structure Guide**: See [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md) for complete directory documentation.
 
 ## 🔧 Usage Example
 

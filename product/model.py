@@ -39,3 +39,6 @@ class MedDRAMatcher:
             })
 
         return results
+
+# Create module-level matcher instance for compatibility
+matcher = MedDRAMatcher(MEDDRA_PATH)
