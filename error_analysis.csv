@@ -1,0 +1,1384 @@
+Input_ADR,True_ADR,Predicted_ADR,Top5_Predictions,Error_Type
+blured vision,Blured vision,blured vision,"['blurring vision' 'blurry vision' 'blurry vision' 'Blury vision'
+ 'blured vision']",Semantic confusion
+stiff elbows,stiff elbows,Arm stiffness,"['Joint Stiffness' 'joint stiffness' 'stiff joints' 'stiff joints'
+ 'Arm stiffness']",Semantic confusion
+vertigo,VERTIGO,vertigo,['vertigo' 'vertigo' 'vertigo' 'vertigo' 'vertigo'],Semantic confusion
+chest pains,Chest pains,chest pains,"['intense chest pains' 'chest pains' 'chest pains' 'chest pains'
+ 'chest pains']",Semantic confusion
+turning in bed is painful,turning in bed is painful,moving in bed is painful,"['unable to get out of bed' 'hurts to get up in the morning'
+ 'difficult for me to get out of bed' 'waking me up at night in pain'
+ 'moving in bed is painful']",Semantic confusion
+pain between my shoulder blades,pain between my shoulder blades,pain inbetween both shoulder blades,"['pain in my shoulder' 'muscle pain just below shoulder blades'
+ 'Nagging muscle pain between and just below my shoulder blades'
+ 'Stabbing pain between shoulder blades'
+ 'pain inbetween both shoulder blades']",Semantic confusion
+massive gas cramps,massive gas cramps,major cramps,"['gastrointestinal cramping' 'Painful stomach cramps'
+ 'gassy abdominal cramping' 'gas pains' 'major cramps']",Semantic confusion
+bone pain,bone pain,bone/joint pain,"['Pain in joints' 'pain in joints' 'pain in joints' 'bone deep aches'
+ 'bone/joint pain']",Semantic confusion
+nausia,nausia,diahrea,['nauseous' 'nauseous' 'Naseua' 'diahrea' 'diahrea'],Semantic confusion
+insomnia,INSOMNIA,insomnia,['Insomnia' 'Insomnia' 'insomnia' 'insomnia' 'insomnia'],Semantic confusion
+night muscle cramps,night muscle cramps,muscle cramps,"['muscle cramps' 'muscle cramps' 'muscle cramps' 'muscle cramps'
+ 'muscle cramps']",Semantic confusion
+loss of weight,loss of weight,weight loss,"['lost 30 pounds' 'severe weight loss' 'weight loss' 'weight loss'
+ 'weight loss']",Semantic confusion
+lower leg weakness,lower leg weakness,extreme leg weakness,"['weakness in legs' 'weakness in legs' 'weakness in legs' 'leg weakness'
+ 'extreme leg weakness']",Semantic confusion
+cramping in back,cramping in back,cramping in back muscles,"['severe cramping' 'severe cramping' 'severe muscle back cramp'
+ 'severe cramping in my back' 'cramping in back muscles']",Semantic confusion
+spasms in left arm,spasms in left arm,muscle spasmns in left arm,"['muscle spasms' 'muscle spasms' 'extreme ache in left arm'
+ 'severe muscle pain in left arm' 'muscle spasmns in left arm']",Semantic confusion
+pinches in the fingers,pinches in the fingers,pinches in skin,"['pain in my fingers' 'fingers hurt' 'sore fingers' 'Tingeling in fingers'
+ 'pinches in skin']",Semantic confusion
+permanent irreversible muscle damage,"permanent, irreversible muscle damage",permanent muscle damage,"['muscle damage' 'muscle damage' 'muscle damage' 'muscle damage'
+ 'permanent muscle damage']",Semantic confusion
+back discomfort,back discomfort,back pain,['back pain' 'back pain' 'back pain' 'back pain' 'back pain'],Semantic confusion
+when i went to sit down instead of sitng normaly i would almost fall down in the chair no control no strength upon getting up i had to hold on to something to get up,"when I went to sit down instead of sitng normaly I would almost fall down in the chair no control no strength, upon getting up I had to hold on to something to get up",Difficulty getting up out of a chair,"[""couldn't lift my arms or legs"" 'difficulty reaching seat'
+ 'could hardly walk or sit' 'Unable to sit'
+ 'Difficulty getting up out of a chair']",Semantic confusion
+constipation,constipation,Constipation,"['Constipation' 'constipation' 'Constipation' 'constipation'
+ 'constipation']",Lexical variation
+malaisse,malaisse,malaise,['general feeling of malais' 'malaise' 'Malaise' 'malaise' 'malaise'],Semantic confusion
+unable to run,unable to run,could not sleep,"['could not sleep' 'could not sleep' 'could not sleep' 'could not sleep'
+ 'Could not sleep']",Semantic confusion
+degenative muscle problem,degenative muscle problem,muscle problem,"['muscle problems' 'muscle problems' 'muscle-joint degeneration'
+ 'muscle problem' 'muscle problem']",Semantic confusion
+back muscle pain in the,back muscle pain in the,muscle pain in back,"['back pain' 'back pain' 'Muscle Pain in upper back'
+ 'muscular pain in the back' 'muscle pain in back']",Semantic confusion
+ed,E.D.,edema,"['confusion' 'Edema of ankles' 'edema of fingers and face'
+ 'Edema of hands' 'edema']",Semantic confusion
+shoulder pain,Shoulder pain,shoulder pain,"['shoulder pain' 'shoulder pain' 'shoulder pain' 'shoulder pain'
+ 'shoulder pain']",Semantic confusion
+damaged my liver permanently,damaged my liver permanently,damaged my liver,"['compromising my liver' 'trouble with my liver' 'liver damage'
+ 'permanent liver damage' 'damaged my liver']",Semantic confusion
+pain traveling to my stomach,pain traveling to my stomach,pain in stomach,"['stomach pain' 'stomach pain' 'pain in my stomach' 'pain in my stomach'
+ 'pain in stomach']",Semantic confusion
+extreme moodiness,extreme moodiness,moodiness,['moodiness' 'moodiness' 'moodiness' 'moodiness' 'moodiness'],Semantic confusion
+scared feeling,'scared' feeling,fear,['Anxiety' 'anxiety' 'WEAK FEELING' 'feeling exausted' 'fear'],Semantic confusion
+numbness in upper legs from knee to thigh,numbness in upper legs from knee to thigh,numbness in both legs,"['numbness in ankles and toes' 'started going numb legs'
+ 'numbness in limbs' 'numbness legs' 'numbness in both legs']",Semantic confusion
+affecting my kidneys,affecting my kidneys,damaging my kidneys,"['kidney damage' 'kidney damage' 'KIDNEY TROUBLES' 'kidney problems'
+ 'damaging my kidneys']",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+feet sore,Feet sore,sore feet,['feet hurt' 'Feet hurt' 'sore and stiff feet' 'sore feet' 'sore feet'],Semantic confusion
+weight gain,Weight gain,weight gain,['weight gain' 'weight gain' 'weight gain' 'Weight gain' 'weight gain'],Lexical variation
+stomach problems,stomach problems,Stomach problems,"['stomach discomfort' 'stomach discomfort' 'stomach discomfort'
+ 'Stomach problems' 'stomach problems']",Lexical variation
+left side of jaw itches,left side of jaw itches,Jaw pains,"['itches' 'itches' 'numbness on left side' 'Numbness on left side of face'
+ 'Jaw pains']",Semantic confusion
+short term memory loss,short term memory loss,Short term memory loss,"['short term memory loss' 'short term memory loss'
+ 'short term memory loss' 'short term memory loss'
+ 'short term memory loss']",Lexical variation
+very bad muscle pain,very bad muscle pain,very bad pain in my muscles,"['severe muscle pain' 'severe muscle pain' 'severe muscle pain'
+ 'severe muscle pain' 'very bad pain in my muscles']",Semantic confusion
+loss of support in calf musells,loss of support in calf musells,loss of support in all muscels in particular calf and leg,"['Calf Pain' 'calf cramping' 'calves hurt' 'LOSS OF CALF SUPPORT IN LEGS'
+ 'loss of support in all muscels in particular calf and leg']",Semantic confusion
+slip in vision,slip in vision,vision problems,"['vision problems' 'vision problems' 'vision problems' 'vision problems'
+ 'vision problems']",Semantic confusion
+crave carbohydrates,crave carbohydrates,food cravings,['hunger pangs' 'Hunger pangs' 'hunger' 'hunger feeling' 'food cravings'],Semantic confusion
+lost all the strength in my muscles,lost all the strength in my muscles,Lost muscular strength,"['loss of strength' 'loss of strength' 'loss of strength'
+ 'loss of muscle strength' 'Lost muscular strength']",Semantic confusion
+muscle pain in left arm,MUSCLE PAIN IN LEFT ARM,severe muscle pain in left arm,"['pain in upper right arm' 'Muscle pain in left elbow'
+ 'severe pain in my left arm' 'Pain in left arm'
+ 'severe muscle pain in left arm']",Semantic confusion
+left shoulder upper arm pain,left shoulder upper arm pain,severe intense left arm and shoulder pain,"['Pain in left arm' 'left shoulder aches' 'severe pain in left shoulder,'
+ 'pain in upper right arm' 'severe intense left arm and shoulder pain']",Semantic confusion
+flared up tendenitis,flared up tendenitis,tendinitis,['tendon pain' 'tendonitis' 'tendonitis' 'tendonitis' 'tendinitis'],Semantic confusion
+hardly lift my arms,hardly lift my arms,couldn't lift my arms,"['painful time lifting my own arm' 'Arms feel HEAVY'
+ 'could not raise my arms' ""couldn't lift my arms or legs""
+ ""couldn't lift my arms""]",Semantic confusion
+muscle pain in the arms,muscle pain in the arms,extreme muscle pain in arms,"['pain in arms' 'Pain in arms' 'muscle aches in arms'
+ 'Muscle aches in arms' 'extreme muscle pain in arms']",Semantic confusion
+not be able to process thoughts,not be able to process thoughts,Difficulty thinking,"['inability to think clearly' 'loss of coherent thought'
+ 'frequently unable to think clearly' 'thinking problems'
+ 'Difficulty thinking']",Semantic confusion
+bladder not to empty as it should,BLADDER NOT TO EMPTY AS IT SHOULD,my bladder all but quit working,"['BLADDER INFECTION' 'BLADDER INFECTION' 'urinary incontinence'
+ 'no control over urination' 'my bladder all but quit working']",Semantic confusion
+muscle achs,muscle achs,achy muscles,['muscle atrophy' 'muscle aces' 'achy legs' 'achy legs' 'achy muscles'],Semantic confusion
+occasional thoughts of suicide,occasional thoughts of suicide,thoughts of suicide,"['suicide' 'suicidal depression' 'suicidal thoughts'
+ 'thoughts about suicide' 'thoughts of suicide']",Semantic confusion
+outoftouch feelings,out-of-touch feelings,feeling exausted,"['feeling depressed' 'WEAK FEELING' 'false full feeling' 'feeling stupid'
+ 'feeling exausted']",Semantic confusion
+felt like i had aged to eighty years old overnight,felt like I had aged to eighty years old overnight,feel like I've aged 20 years,"['felt like an old woman' 'felt like an old (older) man'
+ 'felt much older than I was' 'eighty years old feeling'
+ ""feel like I've aged 20 years""]",Semantic confusion
+hair breakage,Hair breakage,hair breakage,"['hair loss' 'hair has started falling out' 'HAIR FALLING OUT'
+ 'hair falling out' 'hair breakage']",Semantic confusion
+paranoia,Paranoia,paranoia,['paranoia' 'paranoia' 'paranoia' 'paranoia' 'paranoia'],Semantic confusion
+mild cramps,mild cramps,mild cramping,['Cramps' 'cramps' 'cramps' 'severe cramps' 'mild cramping'],Semantic confusion
+discomfort when i walk,discomfort when I walk,painful to walk,"['inability to walk' 'inability to walk' 'Pain trying to walk'
+ 'painful to walk' 'painful to walk']",Semantic confusion
+could barely walk up stairs,could barely walk up stairs,couldn't go up stairs easily,"['difficulty walking up stairs' ""couldn't get down the stairs""
+ ""Can't walk up stairs"" 'could not walk up the stairs'
+ ""couldn't go up stairs easily""]",Semantic confusion
+excercise intolerance,Excercise intolerance,exercise intolerance,"['declining physical ability' 'sever heat intolerance'
+ 'impaired my ability to exercise' 'exercise intolerance'
+ 'exercise intolerance']",Semantic confusion
+muscle spasmns in legs,muscle spasmns in legs,spasms in leg muscles,"['spasms in upper thighs' 'spasms all throughout my legs'
+ 'severe muscle spasms in my legs' 'muscle spasms in leg'
+ 'spasms in leg muscles']",Semantic confusion
+neck pain,Neck pain,neck pain,['neck pain' 'neck pain' 'Neck pain' 'neck pain' 'neck pain'],Lexical variation
+inflamatory muscle pain,inflamatory muscle pain,muscle pain,['muscle pain' 'muscle pain' 'muscle pain' 'muscle pain' 'muscle pain'],Semantic confusion
+couldnt climb stairs,couldn't climb stairs,could not walk up the stairs,"['Unable to even climb 1 flight of stairs' ""couldn't get down the stairs""
+ 'unable to climb stairs' ""couldn't go up stairs easily""
+ 'could not walk up the stairs']",Semantic confusion
+pain in my calves,pain in my calves,severe pain in calves,"['calf pain' 'calf pain' 'Calf Pain' 'Severe muscle pain in calves'
+ 'severe pain in calves']",Semantic confusion
+skin irritation,skin irritation,skin itchiness,"['skin condition' 'Stomach irritation' 'stomach irritation' 'skin rash'
+ 'skin itchiness']",Semantic confusion
+aching muscles in back,aching muscles in back,muscle pain in back,"['Muscle Pain in upper back' 'Aching in back' 'muscular pain in the back'
+ 'Slight muscle aches in my back' 'muscle pain in back']",Semantic confusion
+charley horses in calves,charley horses in calves,charley horses in feet,"['charley horses in abdomen' 'charley horses' 'charley horses in sides'
+ 'charley horses in feet' 'charley horses in feet']",Semantic confusion
+big time depression,big time depression,depression,['depression' 'depression' 'depression' 'depression' 'Depression'],Semantic confusion
+intense chills and shivers,intense chills and shivers,shaking with chills uncontrollably,['chills' 'chills' 'chills' 'chills' 'shaking with chills uncontrollably'],Semantic confusion
+parkinsons symptoms,Parkinson's symptoms,symptoms of parkinson's disease,"[""parkinson's-type tremor in left hand"" ""parkinson's"" 'Parkinsons'
+ ""Possible Early Parkinson's symptoms"" ""symptoms of parkinson's disease""]",Semantic confusion
+pain pain pain,pain pain pain,pain,['pain' 'pain' 'pain' 'pain' 'pain'],Semantic confusion
+felt very weak,felt very weak,felt weak,"['overall weak feeling' 'WEAK FEELING' 'feeling weak' 'feeling weak'
+ 'felt weak']",Semantic confusion
+aching in my fingers,aching in my fingers,pain in my fingers,"['PAIN IN MY HANDS' 'Pain in my hands' 'fingers hurt' 'sore fingers'
+ 'pain in my fingers']",Semantic confusion
+irritable colon,irritable colon,severe colon cramping,"['irritability' 'irritability' 'intestinal pain'
+ 'irritable bowel syndrome of the sigmoid area and descending colon with obstipation and constipation'
+ 'severe colon cramping']",Semantic confusion
+pains in my back,pains in my back,aches and pains in my back,"['pain in back' 'pain in back' 'pain in back' 'pain in back'
+ 'aches and pains in my back']",Semantic confusion
+shortness of breath,Shortness of Breath,shortness of breath,"['shortness of breath' 'shortness of breath' 'shortness of breath'
+ 'shortness of breath' 'shortness of breath']",Semantic confusion
+bottoms of my feet hurt,bottoms of my feet hurt,bottoms of feet hurt,"['Feet hurt' 'feet hurt' 'feet hurt' 'Pain in bottom of feet'
+ 'bottoms of feet hurt']",Semantic confusion
+slight neck pain,slight neck pain,neck pain,['neck pain' 'neck pain' 'neck pain' 'neck pain' 'neck pain'],Semantic confusion
+tire very quickly muscles,tire very quickly muscles,muscles stiff,"['muscle stiffness' 'Muscle Stiffness' 'lots of pain in the muscles'
+ 'muscles very tight' 'muscles stiff']",Semantic confusion
+comfortably couldnt sleep,comfortably Couldn't sleep,couldn't sleep,"['could not sleep' ""couldn't sleep at night"" ""comfortably Couldn't walk""
+ ""couldn't sleep"" ""couldn't sleep""]",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+extreme stomach pain,extreme stomach pain,Major stomach pain,"['stomach pain' 'stomach pain' 'stomach pain' 'terrible stomach pain'
+ 'Major stomach pain']",Semantic confusion
+knees sore,knees sore,sore knees,"['Pain in knees' 'aching in knees' 'knees aches' 'sore and stiff knees'
+ 'sore knees']",Semantic confusion
+back and hip pain,back and hip pain,hip and back pain,"['hip pain' 'Hip pain' 'hip pain' 'severe back and hip pain'
+ 'hip and back pain']",Semantic confusion
+severe leg muscle pain,Severe leg muscle pain,severe leg muscle pains,"['muscle pain in the leg' 'leg muscle pain' 'leg muscle pain'
+ 'severe muscle pain in legs' 'severe leg muscle pains']",Semantic confusion
+pains hips,pains hips,pains in hips,['hips hurt' 'pain in hips' 'pain in hips' 'hips pain' 'pains in hips'],Semantic confusion
+varying blood pressure,varying blood pressure,blood pressure slightly elevated,"['high blood pressure' 'blood pressure elevated'
+ 'Increase in blood pressure' 'INCREASED BLOOD PRESSURE'
+ 'blood pressure slightly elevated']",Semantic confusion
+inability to pull myself from bed,inability to pull myself from bed,difficult for me to get out of bed,"[""can't get out of bed"" 'moving in bed is painful'
+ 'unable to get out of bed'
+ 'not being able to get out of bed in the morning'
+ 'difficult for me to get out of bed']",Semantic confusion
+weak,weak,Weak,['weak' 'weak' 'weak' 'weak' 'Weak'],Lexical variation
+stiffness in lower back,Stiffness in lower back,weakness in upper back,"['body stiffness' 'lower back ache' 'lower back is also tight'
+ 'lower back weakness' 'weakness in upper back']",Semantic confusion
+blurred thinking,blurred thinking,blurred vision,"['blurred vision' 'blurred vision' 'blurred vision' 'blurred vision'
+ 'blurred vision']",Semantic confusion
+affected my balance,AFFECTED MY BALANCE,loss of balance,"['Loss of balance' 'loss of balance' 'loss of balance' 'loss of balance'
+ 'loss of balance']",Semantic confusion
+decreased eye sight,decreased eye sight,eye sight changes,"['Eye sight appeared foggy' 'PARTIAL LOSS OF SIGHT' 'diminished eyesight'
+ 'partial tempoary loss of sight one eye' 'eye sight changes']",Semantic confusion
+pain in shoulders,Pain in shoulders,pain in shoulders,"['pain in my shoulders' 'Pain in the shoulders' 'pain in shoulders'
+ 'pain in shoulders' 'pain in shoulders']",Semantic confusion
+difficulty getting out of bed in the morning,difficulty getting out of bed in the morning,can't get out of bed in the morning,"['difficult for me to get out of bed' ""can't get out of bed""
+ 'unable to get out of bed'
+ 'not being able to get out of bed in the morning'
+ ""can't get out of bed in the morning""]",Semantic confusion
+pain on the sole of my feet,pain on the sole of my feet,pain in feet,"['terrible pain in my feet' 'Pain in bottom of feet'
+ 'severe pain in my feet' 'pain in feet' 'pain in feet']",Semantic confusion
+paranoid,paranoid,paranoia,['paranoia' 'paranoia' 'paranoia' 'paranoia' 'paranoia'],Semantic confusion
+ear aches,ear aches,ears ringing,"['Ringing in the ears' 'plugged ears' 'head aches' 'head aches'
+ 'ears ringing']",Semantic confusion
+sick to my stomach,sick to my stomach,SICK TO MY STOMACH,"['feeling sick' 'sick at stomach' 'sick to stomach' 'sick to my stomach'
+ 'SICK TO MY STOMACH']",Lexical variation
+mental distress,mental distress,depression,['depression' 'depression' 'depression' 'DEPRESSION' 'depression'],Semantic confusion
+joint stiffness,joint stiffness,Joint Stiffness,"['stiff joints' 'stiff joints' 'joint stiffness' 'joint stiffness'
+ 'Joint Stiffness']",Lexical variation
+couldnt move my legs,couldn't move my legs,couldn't lift my arms or legs,"['could not walk' 'could not walk' ""couldn't lift my arms""
+ 'unable to lift my legs' ""couldn't lift my arms or legs""]",Semantic confusion
+severe stomach pain,severe stomach pain,stomach pain,"['stomach pain' 'stomach pain' 'stomach pain' 'stomach pain'
+ 'stomach pain']",Semantic confusion
+starting to upset my stomach,starting to upset my stomach,upset stomach,"['stomach upsets' 'Upset stomach' 'upset stomach' 'Upset stomach'
+ 'upset stomach']",Semantic confusion
+unable to walk or stand,Unable to walk or stand,unable to walk,"['unable to walk' 'unable to walk' 'Unable to walk' 'unable to walk'
+ 'unable to walk']",Semantic confusion
+very severe pain in arms,Very severe pain in arms,severe pain in arm,"['Pain in arms' 'extremly bad pains in arms'
+ 'Intense and constant pain in arms' 'severe pains in my arms'
+ 'severe pain in arm']",Semantic confusion
+shoulders are still very messed up,shoulders are still very messed up,tightness in shoulders,"['pain in shoulders' ""couldn't move shoulders"" 'Pain in the shoulders'
+ 'weakness in shoulders' 'tightness in shoulders']",Semantic confusion
+dryitchy skin,"dry,itchy skin",dry skin,['dry eyes' 'skin is so dry' 'skin is so dry' 'skin is so dry' 'dry skin'],Semantic confusion
+bloody vagina,Bloody vagina,vaginal bleeding,"['vaginal bleeding' 'vaginal bleeding' 'vaginal bleeding'
+ 'vaginal bleeding' 'vaginal bleeding']",Semantic confusion
+cannot walk,cannot walk,Unable to walk,"['unable to walk' 'Unable to walk' 'unable to walk' 'unable to walk'
+ 'unable to walk']",Semantic confusion
+reduced mental capabiities,reduced mental capabiities,decreased cognitive skills,"['Mentally in a daze' 'mental fogginess' 'Mental fogginess'
+ 'cognitive ability deminished' 'decreased cognitive skills']",Semantic confusion
+muscle pain,Muscle pain,muscle pain,['muscle pain' 'muscle pain' 'muscle pain' 'muscle pain' 'Muscle pain'],Lexical variation
+very dark urine,very dark urine,dark urine,"['urine is bloody' 'urine full of blood' 'darkness in urine' 'dark urine'
+ 'dark urine']",Semantic confusion
+eyes microabrasions,eyes microabrasions,iritated eyes,"['dry eyes' 'extremely dry eyes' 'eye trouble' 'eyes are bloodshot'
+ 'iritated eyes']",Semantic confusion
+put weight on suddenly for no reason,put weight on suddenly for no reason,Unable to control weight,"['weight gain' 'weight gain' 'weight increased' 'gained a lot of weight'
+ 'Unable to control weight']",Semantic confusion
+i walk like an old person,I walk like an old person,walked like a 90 year old,"['hard to walk' 'hardly walk' 'difficult for me to walk'
+ 'walk a little funny' 'walked like a 90 year old']",Semantic confusion
+deeper muscle twitches on butt,Deeper muscle twitches on butt,Deeper muscle twitches on arms sides,"['Muscle twitching on calves' 'Muscle twitching on bottom of feet'
+ 'muscle twitches' 'Muscle twitches'
+ 'Deeper muscle twitches on arms sides']",Semantic confusion
+cpk spike,CPK spike,HIGH CPK,"['slightly elevated CPK' 'elevated CPK' 'CPK elevated' 'CPK was elevated'
+ 'HIGH CPK']",Semantic confusion
+rapid shallow breathing,rapid shallow breathing,short of breath,"['shortness of breath' 'shortness of breath' 'shortness of breath'
+ 'shortness of breath' 'short of breath']",Semantic confusion
+slight flush,slight flush,body flushes,"['tightness' 'slight nausea' 'slight nausea'
+ 'complete body flushes (like a hot flash without the hot)' 'body flushes']",Semantic confusion
+fatigue,Fatigue,fatigue,['fatigue' 'fatigue' 'fatigue' 'fatigue' 'fatigue'],Semantic confusion
+scapula and shoulders felt like there was something vibrating under my skin,SCAPULA AND SHOULDERS FELT LIKE THERE WAS SOMETHING VIBRATING UNDER MY SKIN,vibrating sensation,"['insides were vibrating' 'vibrating under scalp' 'pain in my shoulders'
+ 'left shoulder tingles' 'vibrating sensation']",Semantic confusion
+muscle pain over the entire body,muscle pain over the entire body,pain in almost every muscle,"['muscle pain' 'muscle pain' 'muscle pain' 'muscle pain'
+ 'pain in almost every muscle']",Semantic confusion
+irritable,irritable,Irritable,['irritability' 'very irritable' 'irritable' 'Irritable' 'irritable'],Lexical variation
+knees seized up,knees seized up,Swollen knees,"['arthritic knees' 'PAIN IN MY KNEES' 'sore knees' 'Swollen knees'
+ 'swollen knees']",Semantic confusion
+tingling on left arm,tingling on left arm,tingling in arm and hand,"['tingling in my arms' 'tingling in my arms' 'tingling in my arms'
+ 'tingling in arms' 'tingling in arm and hand']",Semantic confusion
+i simply could not walk,I simply could not walk,could not walk,"['cant walk' 'could not walk' 'could not walk' 'could not walk'
+ 'could not walk']",Semantic confusion
+mood change,mood change,changes in mood,['moodiness' 'moodiness' 'moodiness' 'moodiness' 'changes in mood'],Semantic confusion
+hard to pick up feet,hard to pick up feet,difficulty picking my feet up,"['Feet hurt' 'hard to walk' 'problems with feet' 'Feet are terrible'
+ 'difficulty picking my feet up']",Semantic confusion
+pain in both quads above knee back of leg,"Pain in both quads (above knee, back of leg)","cramping in both quads (above knee, back of leg)","['pain in both knees' 'pain in both legs' 'pain in both legs'
+ 'pain in both upper legs'
+ 'cramping in both quads (above knee, back of leg)']",Semantic confusion
+muscle atrophy arms,muscle atrophy Arms,muscle atrophy,"['atrophy' 'atrophy' 'muscle wasting in the arms' 'muscle atrophy legs'
+ 'muscle atrophy']",Semantic confusion
+stroke like symptoms,stroke like symptoms,Stroke like symptoms,"['felt like I was having a stroke' 'felt like I was having a stroke'
+ 'stroke' 'stroke like symptoms' 'Stroke like symptoms']",Lexical variation
+negative about everything in my life,negative about everything in my life,feeling depressed,['depressed' 'depressed' 'depressed' 'depressed' 'feeling depressed'],Semantic confusion
+severe pain in one ankle,severe pain in one ankle,ankle pain,"['exteem pain in my ankle' 'terrible pains in ankle' 'ankle pain'
+ 'ankle pain' 'ANKLE PAIN']",Semantic confusion
+back pain,back pain,Back pain,['back pain' 'back pain' 'back pain' 'back pain' 'back pain'],Lexical variation
+high sleep requirement,high sleep requirement,excessive sleep requirements,"['Difficulty sleeping' 'difficulty sleeping' 'difficulty sleeping'
+ 'INCREASE IN SLEEP REQUIREMENT' 'excessive sleep requirements']",Semantic confusion
+arms started tingling,arms started tingling,tingling in arms,"['tingling in my arms' 'tingling in my arms' 'tingling in my arms'
+ 'arms tingling in' 'tingling in arms']",Semantic confusion
+severe pain in hand,severe pain in hand,Very severe pain in hands,"['Pain in my hands' 'pain in hands' 'Pain in hands' 'hand pain'
+ 'Very severe pain in hands']",Semantic confusion
+irritable,irritable,Irritable,['irritability' 'very irritable' 'irritable' 'Irritable' 'irritable'],Lexical variation
+tingling in muscles of upper torso,TINGLING IN MUSCLES OF UPPER TORSO,Tingling in legs,"['tingling in my legs' 'sensations of tingling in my legs'
+ 'tingling in arm and hand' 'tingling in arms' 'Tingling in legs']",Semantic confusion
+right hand tremor,right hand tremor,tremors in right hand,"['tremor' 'tremor' ""parkinson's-type tremor in left hand""
+ 'Tremors in Right hand' 'tremors in right hand']",Semantic confusion
+joint pain in my lower back,joint pain in my lower back,Pain in lower back,"['lower back pain' 'LOWER BACK PAIN' 'lower back pain'
+ 'Pain in lower back' 'Pain in lower back']",Semantic confusion
+passing massive amounts of blood,passing massive amounts of blood,pushing blood presure up,"['high blood press' 'heavy bleeding' 'heavy bleeding' 'Heavy bleeding'
+ 'pushing blood presure up']",Semantic confusion
+muscle degenerating,muscle degenerating,muscle-joint degeneration,"['losing muscle' 'muscles deteriorated'
+ 'noticible loss of muscle structure' 'muscle disintegration/degeneration'
+ 'muscle-joint degeneration']",Semantic confusion
+went down stamina,went down stamina,loss of stamina,"['went down muscles' 'reduced stamina' 'decreased stamina'
+ 'loss of stamina' 'loss of stamina']",Semantic confusion
+muscle pain lower back,muscle pain lower back,muscle pain in back,"['lower back pain' 'lower back pain' 'Lower back pain' 'LOWER BACK PAIN'
+ 'muscle pain in back']",Semantic confusion
+severe swoleninflamation of the fingershand,severe swolen/inflamation of the fingers/hand,severe swolen/inflamation of the fingers/hands,"['finger stiffness' 'Tingeling in fingers' 'sore fingers'
+ 'mild stiffness of my fingers'
+ 'severe swolen/inflamation of the fingers/hands']",Semantic confusion
+als,ALS,als,"['hoarseness/coughing' 'plugged ears' 'hoarse voice' 'symptoms of als'
+ 'als']",Semantic confusion
+skin itching sensations all over body,skin itching sensations all over body,extreme itching on legs and arms,"['very severe itching' 'constant itching' 'itching all over'
+ 'skin itchiness' 'extreme itching on legs and arms']",Semantic confusion
+calves tire and burn,Calves tire and burn,burning sensations in calves,"['CALF PAIN' 'Calf Pain' 'calves hurt' 'calf of left leg began to burn'
+ 'burning sensations in calves']",Semantic confusion
+very very tired,VERY VERY TIRED,Very very tired,['very tired' 'very tired' 'very tired' 'VERY TIRED' 'Very very tired'],Semantic confusion
+loss of sexual desire,loss of sexual desire,decrease in sexual desire,"['loss of any sex drive' 'loss of sexual drive'
+ 'lost all sexual desires and thoughts' 'lack of sexual desire'
+ 'decrease in sexual desire']",Semantic confusion
+mood changes,mood changes,changes in mood,['moodiness' 'moodiness' 'moodiness' 'Mood problems' 'changes in mood'],Semantic confusion
+muscle soreness,muscle soreness,MUSCLE SORENESS,"['overall muscle soreness' 'soreness in muscles' 'muscle soreness'
+ 'muscle soreness' 'MUSCLE SORENESS']",Lexical variation
+feel pretty lousy,feel pretty lousy,feel dreadful,"['Felt generally terrible' 'feel sick' 'overall weak feeling'
+ 'overall weak feeling' 'feel dreadful']",Semantic confusion
+multiple sclerosis,Multiple Sclerosis,neurological problems,"['MS' 'neurological damage' 'neurological damage' 'neurodegeneration'
+ 'neurological problems']",Semantic confusion
+shoulder painful,shoulder painful,shoulder pain,"['shoulder pain' 'shoulder pain' 'shoulder pain' 'shoulder pain'
+ 'shoulder pain']",Semantic confusion
+buzzing in limbs,buzzing in limbs,buzzing sensation in leg,"['vibrating sensation' 'buzzing in both ears' 'buzzing left leg'
+ 'leg buzzing sensation' 'buzzing sensation in leg']",Semantic confusion
+dementia,dementia,psychiatric,"['memory impaired' 'impaired memory' 'neurodegeneration' 'amnesia'
+ 'psychiatric']",Semantic confusion
+swollen ankles,swollen ankles,Swollen ankles,"['swollen feet and ankles' 'swollen feet & ankles' 'swelling of ankles'
+ 'swollen ankles' 'Swollen ankles']",Lexical variation
+upset my stomach,upset my stomach,Upset stomach,"['seriously upset my stomach' 'Upset stomach' 'upset stomach'
+ 'upset stomach' 'Upset stomach']",Semantic confusion
+throw up,throw up,threw up,['vomiting' 'vomiting' 'vomiting' 'vomiting' 'threw up'],Semantic confusion
+sight loss,Sight loss,PARTIAL LOSS OF SIGHT,"['sight gets tired' 'sudden loss of vision'
+ 'partial tempoary loss of sight one eye' 'eye sight changes'
+ 'PARTIAL LOSS OF SIGHT']",Semantic confusion
+my feet hurt,my feet hurt,feet hurt,['pain in feet' 'feet hurt' 'Feet hurt' 'feet hurt' 'feet hurt'],Semantic confusion
+weakness in hips,weakness in hips,hips hurt,"['Terrible pain in hips' 'aching in hips' 'hips pain' 'hips hurt'
+ 'hips hurt']",Semantic confusion
+severe muscle pain in my shoulders,severe muscle pain in my shoulders,Severe muscle pain in shoulders,"['muscle pain related to shoulders' 'MUSCLE PAIN IN SHOULDERS'
+ 'muscle pain in shoulders' 'extreme muscle pain in shoulders'
+ 'Severe muscle pain in shoulders']",Semantic confusion
+feel drugged,feel drugged,feel sick,['Feel shaky' 'feeling stupid' 'feel tired' 'feeling sick' 'feel sick'],Semantic confusion
+muscle weakness in my left arm,muscle weakness in my left arm,Weakness in my right arm,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'muscle weakness'
+ 'Weakness in my right arm']",Semantic confusion
+weak heart muscle,weak heart muscle,Weak muscles,"['muscles weak' 'WEAK MUSCLES' 'Weak muscles' 'Weak muscles'
+ 'Weak muscles']",Semantic confusion
+excessive sleep,excessive sleep,excessive sleep requirements,"['Inability to Sleep' 'Constant sleepiness' 'sleep disturbances'
+ 'lack of sleep' 'excessive sleep requirements']",Semantic confusion
+muscle pain in right hip,muscle pain in right hip,MUSCLE PAIN IN HIP,"['Pain in hip' 'stiffnes and pain in my right hip'
+ 'SEVERE muscle pain in hip joints' 'pain in my left hip'
+ 'MUSCLE PAIN IN HIP']",Semantic confusion
+severe pain in leg,severe pain in leg,Severe leg pain,"['pain in leg' 'severe leg pains' 'severe pain in legs'
+ 'severe pain in legs' 'Severe leg pain']",Semantic confusion
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+extreme abdominal issues,extreme abdominal issues,abdominal problems,"['severe abdominal pain' 'severe abdominal pain' 'TERRIBLE abdominal pain'
+ 'abdominal discomfort' 'abdominal problems']",Semantic confusion
+kidney,KIDNEY,KIDNEY TROUBLES,"['kidneys hurt' 'kidney pain' 'kidney pain' 'kidney problems'
+ 'KIDNEY TROUBLES']",Semantic confusion
+pain in shoulder,Pain in shoulder,pain in shoulder,"['pain in the shoulder' 'pain in shoulder' 'Pain in shoulder'
+ 'pain in shoulder' 'pain in shoulder']",Lexical variation
+increased menstruation,increased menstruation,increased menstrual blood flow,"['menstruating with heavy bleeding every 11 days'
+ 'extended bleeding during menstruation' 'inhibiting my menstrual cycle'
+ 'slightly heavier menstrual cycle' 'increased menstrual blood flow']",Semantic confusion
+forgetfulness,Forgetfulness,forgetfulness,"['extreme forgetfulness' 'forgetfulness' 'forgetfulness' 'forgetfulness'
+ 'forgetfulness']",Semantic confusion
+urine dark brown,urine dark brown,dark urine,"['urine full of blood' 'urine is bloody' 'darkness in urine' 'dark urine'
+ 'dark urine']",Semantic confusion
+muscle pain in left arm,Muscle Pain in left arm,severe muscle pain in left arm,"['pain in upper right arm' 'Muscle pain in left elbow'
+ 'severe pain in my left arm' 'Pain in left arm'
+ 'severe muscle pain in left arm']",Semantic confusion
+loss of muscel strength,loss of muscel strength,total muscel weakness,"['loss of strength' 'loss of strength' 'loss of strength' 'muscel fatigue'
+ 'total muscel weakness']",Semantic confusion
+fuzzy thinking,Fuzzy thinking,fuzzy thinking,['brain vague' 'Muddled thinking' 'fuzzy vision' 'Fuzzy' 'fuzzy thinking'],Semantic confusion
+breathing problems,breathing problems,difficulty breathing,"['Loss of breath' 'difficulty breathing' 'difficulty breathing'
+ 'difficulty breathing' 'difficulty breathing']",Semantic confusion
+very bad pains in arms,very bad pains in arms,severe pains in my arms,"['severe pain in arm' 'pain in arms' 'Pain in arms'
+ 'extremly bad pains in arms' 'severe pains in my arms']",Semantic confusion
+headache,headache,Headache,['headache' 'headache' 'headache' 'headache' 'Headache'],Lexical variation
+pain in my kidney area,pain in my kidney area,kidney pain,"['kidney problems' 'KIDNEY TROUBLES' 'kidneys hurt' 'kidney pain'
+ 'kidney pain']",Semantic confusion
+muscles hurt,muscles hurt,muscles pain,"['Pain in muscles' 'Pain in muscles' 'pain in muscles' 'pain in muscles'
+ 'muscles pain']",Semantic confusion
+severe burning of the feet,severe burning of the feet,burning in the soles of my feet,"['burning feet' 'Burning feet' 'burning feet' 'burning feet in toe area'
+ 'burning in the soles of my feet']",Semantic confusion
+hand numbness,hand numbness,Severe numbness in hand,"['Hands numb' 'hands numb' 'numbness hands' 'numbness in my hands'
+ 'Severe numbness in hand']",Semantic confusion
+permanent damage to my muscles,permanent damage to my muscles,permanent muscle damage,"['muscle damage' 'muscle damage' 'damaging my muscles'
+ 'damage to my muscles' 'permanent muscle damage']",Semantic confusion
+tingles although the body,tingles although the body,Hands tingle,"['tingling hands' 'tingle' 'tingling in hands' 'tingling in the hands'
+ 'Hands tingle']",Semantic confusion
+fuzzy headed,fuzzy headed,Fuzzy,['LIGHT HEADED' 'light headed' 'light headed' 'fuzzy thinking' 'Fuzzy'],Semantic confusion
+cold sweat shaking uncontrollably,"cold sweat, shaking uncontrollably",shaking with chills uncontrollably,"['unexplained sweating' 'cold sweat' 'Cold sweat' 'cold sweats'
+ 'shaking with chills uncontrollably']",Semantic confusion
+pain in my left thigh,pain in my left thigh,pain in right thigh,"['THIGH PAIN' 'thigh pain' 'pain in my my left leg' 'pain in my left leg'
+ 'pain in right thigh']",Semantic confusion
+peripheral neuropathy,Peripheral Neuropathy,peripheral neuropathy,"['neuropathy' 'peripheral neuropathy' 'Peripheral Neuropathy'
+ 'peripheral neuropathy' 'peripheral neuropathy']",Lexical variation
+aches and pains,Aches and pains,aches and pains,"['aches and pains' 'Aches and pains' 'aches and pains' 'aches and pains'
+ 'aches and pains']",Lexical variation
+pain in the lower legs,pain in the lower legs,Pain in lower legs,"['pain in my lower leg' 'pain in my lower leg' 'lower leg pain'
+ 'Pain in my lower legs' 'Pain in lower legs']",Semantic confusion
+burning,Burning,burning,['burning' 'burning' 'burning' 'burning' 'burning'],Semantic confusion
+deep depression,Deep depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+developed sore legs,Developed sore legs,sore legs,['leg soreness' 'leg soreness' 'sore legs' 'sore legs' 'sore legs'],Semantic confusion
+bizarre muscular sensations,bizarre muscular sensations,muscle tingley thing,"['odd sensation in the center back of my calves' 'vibrating sensation'
+ 'muscular pain' 'muscular pain' 'muscle tingley thing']",Semantic confusion
+bad taste in mouth,bad taste in mouth,taste loss,"['Extremely dry mouth' 'decreased sense of taste' 'altered taste'
+ 'swallowing so bad' 'taste loss']",Semantic confusion
+joint aches in elbows,joint aches in elbows,Joint pain in elbows,"['joint aches in arms' 'Muscle aches in elbows' 'Joint pain (elbows!)'
+ 'aching joints elbows' 'Joint pain in elbows']",Semantic confusion
+severe depression,severe depression,Severe depression,"['severe depression' 'severe depression' 'severe depression'
+ 'severe depression' 'Severe depression']",Lexical variation
+effected my equilibrium,effected my equilibrium,decrease in balance,"['problems with balance' 'balance problems' 'BALANCE PROBLEMS'
+ 'balance problems' 'decrease in balance']",Semantic confusion
+tingling in feet,tingling in feet,tingling of feet,"['tingling in the soles of my feet' 'Tingling toes'
+ 'sensations of tingling in my feet' 'Tingling in toes and feet'
+ 'tingling of feet']",Semantic confusion
+burning sensations in shoulders,Burning sensations in shoulders,burning of shoulders,"['Burning sensations in neck' 'pain in shoulders' 'pain in shoulders'
+ 'pain in shoulders' 'burning of shoulders']",Semantic confusion
+laziness,laziness,diziness,"['lack of motivation' 'lack of motivation'
+ ""lazyness (I don't feel like doing anything)"" 'diziness' 'diziness']",Semantic confusion
+muscle pain in feet,muscle pain in feet,pain in feet,"['feet pains' 'severe pain in feet' 'pain in feet and legs' 'pain in feet'
+ 'pain in feet']",Semantic confusion
+extreme tiredness,extreme tiredness,Extreme tiredness,"['extreme tiredness' 'extreme tiredness' 'extreme tiredness'
+ 'Extreme tiredness' 'Extreme tiredness']",Lexical variation
+bp,BP 145/95,high BP,['elevated BP' 'BP was very low' 'Increased BP' 'low bp' 'high BP'],Semantic confusion
+chronic diarrhea,chronic diarrhea,diarrhea,['diarrhea' 'Diarrhea' 'diarrhea' 'diarrhea' 'diarrhea'],Semantic confusion
+very poor appetite,very poor appetite,lack of appetite,"['increased appetite' 'loss of appetite' 'loss of appetite'
+ 'loss of appetite' 'lack of appetite']",Semantic confusion
+horrible stomach pain,horrible stomach pain,terrible stomach pain,"['stomach pain' 'stomach pain' 'stomach pain' 'stomach pain'
+ 'terrible stomach pain']",Semantic confusion
+right ventricular was mildly dilated,right ventricular was mildly dilated,intense heart pain,"['heart palpatations' 'altered my heart function' 'chest pain left side'
+ 'leaky heart valves' 'intense heart pain']",Semantic confusion
+zombie like tired,zombie like tired,EXTREME ZOMBIE LIKE STATE,"['tired' 'tired' 'zombie like doped up state'
+ 'generaly feeling unwell like walking in a daze (Zombie like)'
+ 'EXTREME ZOMBIE LIKE STATE']",Semantic confusion
+tired more than ususal,Tired more than ususal,tired all the time,"['tired all the time' 'tired all the time' 'tired all the time'
+ 'tired all the time' 'tired all the time']",Semantic confusion
+severe back pain,severe back pain,Severe back pain,"['severe pain in back' 'Severe back pain' 'Severe back pain'
+ 'Severe back pain' 'Severe back pain']",Semantic confusion
+loss of muscle structure in the calf muscles,loss of muscle structure in the calf muscles,noticible loss of muscle structure,"['loss of muscle'
+ 'loss of support in all muscels in particular calf and leg'
+ 'Calf muscle strains' 'LOSS OF CALF SUPPORT IN LEGS'
+ 'noticible loss of muscle structure']",Semantic confusion
+hard on my stomach,hard on my stomach,Hard on my stomach,"['terrible stomach pain' 'pain in my stomach' 'pain in my stomach'
+ 'stomach rough' 'Hard on my stomach']",Semantic confusion
+migranes during sexual intercourse,migranes during sexual intercourse,Migranes,['migrane headaches' 'migrane headaches' 'Migranes' 'migranes' 'migranes'],Semantic confusion
+excruciating pain,Excruciating pain,excruciating pain,"['excrutiation pain throughout my entire body' 'excruciatig pain'
+ 'excruciating pain' 'excruciating pain' 'excruciating pain']",Semantic confusion
+severe muscle pain,severe muscle pain,Severe muscle pain,"['severe muscle pain' 'severe muscle pain' 'Severe muscle pain'
+ 'Severe muscle pain' 'severe muscle pain']",Lexical variation
+significan heart muscle weakness,significan heart muscle weakness,muscle weakness,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'muscle weakness'
+ 'muscle weakness']",Semantic confusion
+intense shoulder and upper arm pain,intense shoulder and upper arm pain,severe intense left arm and shoulder pain,"['shoulder pain' 'shoulder pain' 'severe pain in shoulder'
+ 'severe shoulder pain' 'severe intense left arm and shoulder pain']",Semantic confusion
+faintness,faintness,fainting,"['dizzyness' 'dizziness (fainting spells)' 'fainting spells'
+ 'feel weak and almost fainted' 'fainting']",Semantic confusion
+itchiness,itchiness,skin itchiness,['itching' 'itchy' 'itchy' 'itchy' 'skin itchiness'],Semantic confusion
+muscle aches in arms,Muscle aches in arms,muscle aches in arms,"['muscle aches,' 'muscle aches' 'extreme muscle pain in arms'
+ 'Muscle aches in arms' 'muscle aches in arms']",Lexical variation
+tingling eyes,tingling eyes,tingling face,['Tingling' 'tingling' 'tingling' 'tingling' 'tingling face'],Semantic confusion
+pain in my neck,pain in my neck,Pain in neck,"['Pain in neck' 'pain in neck' 'pain in neck' 'pain in neck'
+ 'pain in neck']",Semantic confusion
+itchy hands,itchy hands,itchy,['itches' 'skin itchiness' 'itchy' 'itchy' 'itchy'],Semantic confusion
+muscle atrophy,Muscle atrophy,muscle atrophy,['muscle atrophy legs' 'atrophy' 'atrophy' 'atrophy' 'muscle atrophy'],Semantic confusion
+diminished mental acuity,diminished mental acuity,diminished eyesight,"['loss of coherent thought' 'Vision reduced' 'decreased cognitive skills'
+ 'cognitive ability deminished' 'diminished eyesight']",Semantic confusion
+muscle aches in legs,muscle aches in legs,muscle aches in my legs,"['muscle pain in legs' 'muscle pain in the legs' 'aches in legs'
+ 'aching muscles in legs' 'muscle aches in my legs']",Semantic confusion
+cognitive disfunction,Cognitive disfunction,decreased cognitive skills,"['mental confusion' 'loss of coherent thought'
+ 'inability to think clearly' 'cognitive ability deminished'
+ 'decreased cognitive skills']",Semantic confusion
+felt lazy,Felt lazy,lazyness (I don't feel like doing anything),"['no motivation' 'feel tired' 'diziness' 'diziness'
+ ""lazyness (I don't feel like doing anything)""]",Semantic confusion
+needed to rest every few minutes,needed to rest every few minutes,couldn't get enough sleep,"['always tired' 'always tired' 'much fatigue' 'gets tired a lot'
+ ""couldn't get enough sleep""]",Semantic confusion
+feel as if i was  years old,Feel as if I was 90 years old,felt much older than I was,"['felt like an old (older) man' 'feel like an old man'
+ 'never felt so old in my life' ""feel like I've aged 20 years""
+ 'felt much older than I was']",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+severe pain in the upper back,severe pain in the upper back,severe pain in back,"['Severe back pain' 'Severe back pain' 'Severe back pain'
+ 'extreme pain in back' 'severe pain in back']",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+pain in throat,pain in throat,hurts throat,"['tightness in my throat' 'swelling in throat' 'swelling of throat'
+ 'sore throat' 'hurts throat']",Semantic confusion
+destroyed my selfconfidence,destroyed my self-confidence,destroyed my sex life,"['thoughts of hurting myself' 'lost all sexual desires and thoughts'
+ 'loss of desire to do or accomplish anything' 'self loathing'
+ 'destroyed my sex life']",Semantic confusion
+muscle spasams in face and neck,muscle spasams in face and neck,muscle spasmns in left arm,"['muscle spasms' 'extreme muscle spazms in my lower back'
+ 'muscle aches in my neck' 'muscle cramps in face'
+ 'muscle spasmns in left arm']",Semantic confusion
+lower back pain,lower back pain,Lower back pain,"['LOWER BACK PAIN' 'lower back pain' 'lower back pain' 'lower back pain'
+ 'Lower back pain']",Lexical variation
+rashes,rashes,Rashes,['rash' 'rash' 'Rashes' 'Rashes' 'rashes'],Lexical variation
+lower tendon pain,lower tendon pain,tendon pain,"['Pain in lower back' 'tendon ruptures' 'Achilles tendon pain in'
+ 'pain in every tendon in my body' 'tendon pain']",Semantic confusion
+heel is hot,heel is hot,heel pain,"['right heel became painful' 'painful heels' 'heels hurt' 'heel pain'
+ 'heel pain']",Semantic confusion
+joint pain,JOINT PAIN,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Semantic confusion
+rheumatoid arthtitis,Rheumatoid Arthtitis,rheumatoid arthritis,"['sever arthritic condition' 'Arthritic type pain in all joints'
+ 'inflammation of my joints' 'joint pain very arthritic'
+ 'rheumatoid arthritis']",Semantic confusion
+couldnt find words,Couldn't find words,unable to find words or remember names,"[""could'nt concentrate"" ""could'nt talk"" 'couldnt remember anything'
+ 'words would not form' 'unable to find words or remember names']",Semantic confusion
+balance is off at times,balance is off at times,problems with balance,"['balance problems' 'balance problems' 'BALANCE PROBLEMS'
+ 'problems with my balance' 'problems with balance']",Semantic confusion
+pain in my left leg and foot,pain in my left leg and foot,pain in my left leg,"['pain in leg' 'pain in left foot' 'severe pain in left leg'
+ 'pain in my my left leg' 'pain in my left leg']",Semantic confusion
+halucinations,halucinations,halucinations during day,"['nightmares' 'Nightmares' 'terrifying thoughts' 'hallucinations'
+ 'halucinations during day']",Semantic confusion
+high,high,high BP,['low bp' 'high blood press' 'extremely hyper' 'HIGH CPK' 'high BP'],Semantic confusion
+hotheated flushing sensation that began midtorso and continued up to the top of head top of scalp started tingling and burning,hot/heated flushing sensation that began mid-torso and continued up to the top of head (top of scalp started tingling and burning),tingling in the scalp,"['tingling in side of face' 'Burning sensations in neck'
+ 'tingly feeling in scalp' 'face and scalp tingling'
+ 'tingling in the scalp']",Semantic confusion
+pain in ankle,pain in ankle,ankle pain,"['exteem pain in my ankle' 'terrible pains in ankle' 'ankle pain'
+ 'ankle pain' 'ANKLE PAIN']",Semantic confusion
+mild nausea,mild nausea,EXTREME nausea,['nausea' 'slight nausea' 'slight nausea' 'severe nausea' 'EXTREME nausea'],Semantic confusion
+calves are sore and tender to the touch,calves are sore and tender to the touch,extremely tender calves,"['severe pain in calves' 'calf muscles painful to touch' 'calves hurt'
+ 'soreness in calf muscles' 'extremely tender calves']",Semantic confusion
+bleeding in my abdomen after coughing and rupturing a blood vessel,bleeding in my abdomen after coughing and rupturing a blood vessel,gastric bleed,"['heavy bleeding' 'increased bleeding' 'Bleeding problems'
+ 'bleeding problem' 'gastric bleed']",Semantic confusion
+significant strength reduction,significant strength reduction,decrease in overall strength,"['No strength' 'no strength' 'decrease in muscle strength'
+ 'losing strength' 'decrease in overall strength']",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+memory loss,Memory loss,memory loss,['Memory Loss' 'memory loss' 'memory loss' 'memory loss' 'memory loss'],Semantic confusion
+liver blood test mildly elevated,Liver blood test mildly elevated,very elevated liver function tests,"['elevated liver enzymes' 'liver enzymes elevated'
+ 'liver enzymes were very elevated' 'elevated liver function'
+ 'very elevated liver function tests']",Semantic confusion
+stiffness,Stiffness,stiffness,['stiffness' 'stiffness' 'Stiffness' 'stiffness' 'stiffness'],Lexical variation
+fogginess,fogginess,Foggy,"['feeling in a fog' 'foggy-headedness' 'Mental fogginess'
+ 'mental fogginess' 'Foggy']",Semantic confusion
+persistent pain in knee,persistent pain in knee,pain in knee,"['severe knee pain' 'SEVERE KNEE PAIN' 'Sudden knee pain'
+ 'terrible pains in knee' 'pain in knee']",Semantic confusion
+horrible leg pain,Horrible leg pain,leg pain,['leg pain' 'leg pain' 'leg pain' 'leg pain' 'leg pain'],Semantic confusion
+joint stiffness in hands,joint stiffness in hands,stiffness in hands,"['finger stiffness' 'Joint Stiffness' 'joint stiffness' 'joint stiffness'
+ 'stiffness in hands']",Semantic confusion
+memory lapses,Memory lapses,memory lapses,"['memory deficits' 'memory deficits' 'memory difficulties' 'Memory'
+ 'memory lapses']",Semantic confusion
+numbness face,numbness face,face has felt numb,['numbness' 'numbness' 'Numbness' 'numbness' 'face has felt numb'],Semantic confusion
+imence pain in feet,imence pain in feet,pain in feet,['feet pains' 'feet pains' 'pain in foot' 'pain in feet' 'pain in feet'],Semantic confusion
+cramps,CRAMPS,cramps,['cramps' 'cramps' 'cramps' 'cramps' 'cramps'],Semantic confusion
+inability to think fast enough,inability to think fast enough,inability to think clearly,"['inability to concentrate' 'thinking problems' 'Difficulty thinking'
+ 'frequently unable to think clearly' 'inability to think clearly']",Semantic confusion
+muscle crammps,muscle crammps,muscles cramp,"['muscle cramps' 'muscle cramps' 'muscle cramps' 'muscle cramps'
+ 'muscles cramp']",Semantic confusion
+hard to get out of bed in the morning,hard to get out of bed in the morning,can't get out of bed in the morning,"[""can't get out of bed"" 'could barely get out of bed in the morning'
+ 'difficult for me to get out of bed'
+ 'not being able to get out of bed in the morning'
+ ""can't get out of bed in the morning""]",Semantic confusion
+couldnt sleep,Couldn't sleep,couldn't sleep,"['could not sleep' 'Could not sleep' 'could not sleep' ""couldn't sleep""
+ ""couldn't sleep""]",Semantic confusion
+terrible muscle pain,terrible muscle pain,HORRIBLE muscle pains,"['Severe muscle pain' 'Severe muscle pain' 'severe muscle pain'
+ 'UNBEARABLE MUSCLE PAIN' 'HORRIBLE muscle pains']",Semantic confusion
+joint pain in my knees,joint pain in my knees,Joint pain in the knees,"['severe pain in my knees' 'Pain in knees' 'PAIN IN MY KNEES'
+ 'joint pain (knees)' 'Joint pain in the knees']",Semantic confusion
+peripheral neuropathy in my hands,peripheral neuropathy in my hands,Peripheral Neuropathy,"['peripheral neuropathy in arms' 'peripheral neuropathy'
+ 'peripheral neuropathy' 'Peripheral Neuropathy' 'peripheral neuropathy']",Semantic confusion
+trouble walking,Trouble walking,trouble walking,"['hard time walking' 'difficulty to walk' 'difficulty walking'
+ 'difficulty walking' 'trouble walking']",Semantic confusion
+memory loss,Memory loss,memory loss,['Memory Loss' 'memory loss' 'memory loss' 'memory loss' 'memory loss'],Semantic confusion
+stiffness in both legs,stiffness in both legs,stiffness in legs,"['stiffness in both knees' 'Stiffness of limbs' 'stiff upper leg'
+ 'Stiffness in legs' 'stiffness in legs']",Semantic confusion
+tingling sensation in the back of my neck,tingling sensation in the back of my neck,Tingling in back of neck,"['severe tingling' 'tingling in side of face'
+ 'sensations of tingling in my legs' 'tingling in the neck'
+ 'Tingling in back of neck']",Semantic confusion
+balance problems,balance problems,BALANCE PROBLEMS,"['problems with my balance' 'problems with balance' 'balance problems'
+ 'BALANCE PROBLEMS' 'balance problems']",Lexical variation
+inflamation,inflamation,painful inflamation of joints,"['stress' 'inflexibility' 'inflammed ligaments'
+ 'painful inflamation of knuckles' 'painful inflamation of joints']",Semantic confusion
+insomnia,Insomnia,insomnia,['Insomnia' 'Insomnia' 'insomnia' 'insomnia' 'insomnia'],Lexical variation
+ulceration of stomach,ulceration of stomach,STOMACH ULCER,"['stomach pain' 'stomach pain' 'stomach pain'
+ 'ulceration of the osophragus' 'STOMACH ULCER']",Semantic confusion
+s l o w walking,s l o w walking,trouble walking,"['bearly walk' 'dificultly in walking' 'hardly walk' 'hard time walking'
+ 'trouble walking']",Semantic confusion
+eyes get blury,eyes get blury,blurry eyesight,"['blurry vision' 'Blury vision' 'very blurry eyesight' 'blurring eyesight'
+ 'blurry eyesight']",Semantic confusion
+lower back pain,lower back pain,Lower back pain,"['LOWER BACK PAIN' 'lower back pain' 'lower back pain' 'lower back pain'
+ 'Lower back pain']",Lexical variation
+right knee always swollen,Right knee always swollen,swelling of right knee,"['knee swells' 'swelling in knee' 'swelling at knee'
+ 'Right knee always sore' 'swelling of right knee']",Semantic confusion
+body aches,body aches,Body aches,['body aches' 'body aches' 'body aches' 'Body aches' 'Body aches'],Lexical variation
+diarreha,diarreha,Diarreha,['Diarrehea' 'diarrea' 'diarreah' 'diarreah' 'Diarreha'],Semantic confusion
+extreme depression,extreme depression,Severe depression,"['severe depression' 'severe depression' 'severe depression'
+ 'severe depression' 'Severe depression']",Semantic confusion
+numbness in left toe,Numbness in left toe,numbness in left foot,"['Numbness in all of my toes' 'numb feet in toe area'
+ 'Numbness in all toes' 'numbness in toes' 'numbness in left foot']",Semantic confusion
+severe muscle pain,severe muscle pain,Severe muscle pain,"['severe muscle pain' 'severe muscle pain' 'Severe muscle pain'
+ 'Severe muscle pain' 'severe muscle pain']",Lexical variation
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+alopecia,alopecia,Alopecia,"['hair loss' 'hair loss' 'hair loss' 'Hair loss (Diffuse Alopecia)'
+ 'Alopecia']",Semantic confusion
+difficult to sleep,Difficult to sleep,hard to sleep,"['Inability to Sleep' 'Difficulty sleeping' 'difficulty sleeping'
+ 'difficulty sleeping' 'hard to sleep']",Semantic confusion
+tingling legs,tingling legs,Tingling in legs,"['sensations of tingling in my legs' 'legs started tingling'
+ 'tingling in my legs' 'legs tingling in' 'Tingling in legs']",Semantic confusion
+muscles in my left leg locked up,muscles in my left leg locked up,loss of muscle in left leg,"['leg muscle discomfort' 'muscle issues' 'muscles very tight'
+ 'muscle problems legs' 'loss of muscle in left leg']",Semantic confusion
+hip hurts,hip hurts,hip hurt,['hip pain' 'hip pain' 'hip pain' 'hip pain' 'hip hurt'],Semantic confusion
+swelling,Swelling,swelling,['swelling' 'SWELLING' 'swelling' 'swelling' 'swelling'],Semantic confusion
+stomach ulcers,STOMACH ULCERS,STOMACH ULCER,"['perforated ulcer' 'ulcer lower bowel' 'stomach problems'
+ 'Stomach problems' 'STOMACH ULCER']",Semantic confusion
+insomia,insomia,Insomia,['diarria' 'Insomina' 'Insomina' 'insomina' 'Insomia'],Semantic confusion
+major menstrual cramps,MAJOR menstrual cramps,menstrual cramps,"['period cramps' 'period cramps' 'period cramps' 'menstrual cramps'
+ 'menstrual cramps']",Semantic confusion
+psychiatric side effects,psychiatric side effects,severe mood swings,"['Mood problems' 'intense depression' 'intense anxiety attacks'
+ 'psychiatric' 'severe mood swings']",Semantic confusion
+couldnt pass urine,couldnt pass urine,couldn't urinate,"[""couldn't eat or drink"" 'urine leaking' 'urine is bloody'
+ 'Difficulty urinating' ""couldn't urinate""]",Semantic confusion
+hair losss,hair losss,hair loss,['hair loss' 'hair loss' 'hair loss' 'hair loss' 'hair loss'],Semantic confusion
+frequent urination,frequent urination,urge to urinate constantly,"['urinary incontinence' 'urinary problems' 'Difficulty urinating'
+ 'no control over urination' 'urge to urinate constantly']",Semantic confusion
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+urine corrosive,urine corrosive,urine leaking,"['dark urine' 'urine full of blood' 'blood in urine' 'urine is bloody'
+ 'urine leaking']",Semantic confusion
+throbbingburning sensation,"throbbing,burning sensation",burning sensations,"['burning feeling' 'vibrating sensation' 'Burning sensations in neck'
+ 'Throbbing headache' 'burning sensations']",Semantic confusion
+panic attack,panic attack,panic attacks,"['mild panic attack' 'panic attacks' 'panic attacks' 'panic attacks'
+ 'panic attacks']",Semantic confusion
+stomach sensitivity,stomach sensitivity,stomach discomfort,"['stomach discomfort' 'stomach discomfort' 'stomach discomfort'
+ 'stomach discomfort' 'stomach discomfort']",Semantic confusion
+back pain upper,back pain upper,back pain,['back pain' 'back pain' 'back pain' 'Back pain' 'back pain'],Semantic confusion
+tightness of throat,Tightness of throat,throat tightness,"['tightness in the neck' 'Tight throat'
+ 'tightness in throat with occasional choking problem'
+ 'tightness in my throat' 'throat tightness']",Semantic confusion
+vision severe impairment,Vision severe impairment,vision impaired,"['vision problems' 'vision problems' 'sudden loss of vision'
+ 'severe vision problems' 'vision impaired']",Semantic confusion
+irritable,irritable,Irritable,['irritability' 'very irritable' 'irritable' 'Irritable' 'irritable'],Lexical variation
+tingling in feet,Tingling in feet,tingling of feet,"['tingling in the soles of my feet' 'Tingling toes'
+ 'sensations of tingling in my feet' 'Tingling in toes and feet'
+ 'tingling of feet']",Semantic confusion
+terrible pains in big toe,terrible pains in big toe,pain in toes and feet,"['weird symptoms (eg. popping) in big toe joints' 'toes hurt' 'toes hurt'
+ 'toes hurt' 'pain in toes and feet']",Semantic confusion
+mental fog,mental fog,Mental fogginess,"['Brain Fog' 'Brain fog' 'Foggy mental state' 'Mental fogginess'
+ 'mental fogginess']",Semantic confusion
+muscle pains in my hips,MUSCLE PAINS IN MY HIPS,severe muscle pain in hips,"['severe pain in hips' 'severe pain in hips' 'MUSCLE PAIN IN HIP'
+ 'pains in hips' 'severe muscle pain in hips']",Semantic confusion
+shooting lower abdominal pains,shooting lower abdominal pains,lower abdominal pain,"['abdominal pain' 'abdominal pain' 'severe lower abdominal pain/cramping'
+ 'abdominal pains' 'lower abdominal pain']",Semantic confusion
+tighening of the chest,tighening of the chest,chest tightness,"['chest discomfort' 'chest hurt' 'Chest tightness' 'chest tightness'
+ 'chest tightness']",Semantic confusion
+leg neuropathy,leg neuropathy,neuropathy,['neuropathy' 'neuropathy' 'neuropathy' 'Neuropathy' 'NEUROPATHY'],Semantic confusion
+burning sensation,burning sensation,burning sensations,"['burning' 'burning' 'burning sensations in legs' 'burning feeling'
+ 'burning sensations']",Semantic confusion
+swollen nasal passages,swollen nasal passages,swells the nasal passages,"['swollen tongue' 'Facial swelling' 'swelling in throat'
+ 'swelling of throat' 'swells the nasal passages']",Semantic confusion
+remember the entire e,remember the entire e,forgetful,"['forgetfulness' 'forgetfulness' 'forgetfulness'
+ 'forget things all the time' 'forgetful']",Semantic confusion
+hyperactive,hyperactive,extremely hyper,"['light headed' 'light headed' 'LIGHT HEADED' 'light headed'
+ 'extremely hyper']",Semantic confusion
+struggling walking too far,struggling walking too far,trouble walking,"['hard time walking' 'difficulty to walk' 'difficulty walking'
+ 'difficulty walking' 'trouble walking']",Semantic confusion
+affecting my stomachacid reflux,affecting my stomach(acid reflux),severe acid reflux,"['acid reflux' 'acid reflux' 'acid reflux' 'acid reflux'
+ 'severe acid reflux']",Semantic confusion
+concentration is worse than ever,concentration is worse than ever,concentration is poor,"['lack of concentration' 'Lack of Concentration' 'terrible concentration'
+ 'Poor concentration' 'concentration is poor']",Semantic confusion
+wild mood swings,wild mood swings,mood swings,['mood swings' 'Mood swings' 'mood swings' 'MOOD SWINGS' 'mood swings'],Semantic confusion
+blisters in my mouth,blisters in my mouth,blisters,"['blisterey rash on my arms' 'blisterey rash on my legs'
+ 'Rash with blisters' 'blisters' 'blisters']",Semantic confusion
+feeling shakey,feeling shakey,shaking,"['feeling sick' 'fluish feeling' 'shaking with chills uncontrollably'
+ 'Feel shaky' 'shaking']",Semantic confusion
+vivid dreams,vivid dreams,vivid nightmares,"['bad dreams nightly' 'weird dreams' 'bad dreams' 'bad dreams'
+ 'vivid nightmares']",Semantic confusion
+loss of muscle strenth mainly calves,"loss of muscle strenth, mainly calves",LOSS OF CALF SUPPORT IN LEGS,"['loss of muscle in left leg' 'Calf muscle strains' 'loss of muscle'
+ 'loss of support in all muscels in particular calf and leg'
+ 'LOSS OF CALF SUPPORT IN LEGS']",Semantic confusion
+cannot sleep,cannot sleep,unable to sleep,"[""can't sleep"" 'can not sleep' 'unable to sleep' 'unable to sleep'
+ 'unable to sleep']",Semantic confusion
+bleeding problems,bleeding problems,Bleeding problems,"['bleeding' 'bleeding' 'bleeding constantly' 'bleeding problem'
+ 'Bleeding problems']",Semantic confusion
+aching in shoulders,Aching in shoulders,shoulders ache,"['pain in shoulders' 'pain in shoulders' 'Pain in the shoulders'
+ 'aching pain across my shoulders' 'shoulders ache']",Semantic confusion
+extreme pain in my should and arm,extreme pain in my should and arm,severe pain in arm,"['pain in upper right arm' 'extreme muscle pain in arms' 'pain in arm'
+ 'pain in my arm' 'severe pain in arm']",Semantic confusion
+pain in feet,Pain in feet,pain in feet,['pain in foot' 'feet pains' 'feet pains' 'pain in feet' 'pain in feet'],Semantic confusion
+feet is painful,feet is painful,pain in feet,['feet hurt' 'feet hurt' 'Very Painful feet' 'pain in feet' 'pain in feet'],Semantic confusion
+decreased libdo,decreased libdo,decreased libido,"['decrease in balance' 'decreased testosterone' 'Decreased energy'
+ 'decreased libido' 'decreased libido']",Semantic confusion
+weight gain,WEIGHT GAIN,weight gain,['weight gain' 'weight gain' 'weight gain' 'Weight gain' 'weight gain'],Semantic confusion
+muscles pains,muscles pains,muscle pains,"['muscle pains' 'muscle pains' 'muscle pains' 'muscle pains'
+ 'muscle pains']",Semantic confusion
+muscle pain in my biceps,muscle pain in my biceps,muscle pain,['muscle pain' 'muscle pain' 'muscle pain' 'Muscle Pain' 'muscle pain'],Semantic confusion
+unable to get out of bed,Unable to get out of bed,unable to get out of bed,"[""couldn't get out of bed"" 'difficult for me to get out of bed'
+ ""can't get out of bed in the morning"" ""can't get out of bed""
+ 'unable to get out of bed']",Semantic confusion
+extreme pain in legs,extreme pain in legs,severe pain in legs,"['pain in legs' 'pain in legs' 'extreme leg pain' 'severe pain in legs'
+ 'severe pain in legs']",Semantic confusion
+uneasiness,uneasiness,queasiness,['disorientation' 'disorientation' 'diziness' 'diziness' 'queasiness'],Semantic confusion
+muscle in my angles hurt,muscle in my angles hurt,joints in my angles hurt,"['muscle pain' 'muscle pain' 'muscle pain' 'muscle pain'
+ 'joints in my angles hurt']",Semantic confusion
+soreness in upper back,soreness in upper back,back soreness,"['muscle aches in my lower back' 'sore back'
+ 'Slight muscle aches in my back' 'Muscle Pain in upper back'
+ 'back soreness']",Semantic confusion
+first vaginal bleeding,first vaginal bleeding,vaginal bleeding,"['vaginal bleeding' 'vaginal bleeding' 'vaginal bleeding'
+ 'vaginal bleeding' 'vaginal bleeding']",Semantic confusion
+tiredeness,tiredeness,tiredness,['tiredness' 'tiredness' 'Tiredness' 'tiredness' 'tiredness'],Semantic confusion
+gut wrenching pain,gut wrenching pain,intestinal pain,"['stomach pain' 'stomach pain'
+ 'sharp unbearable cramping pains in lower gut'
+ 'gut-renching abdominal pain' 'intestinal pain']",Semantic confusion
+chest pain,Chest pain,chest pain,['chest pain' 'chest pain' 'chest pain' 'chest pain' 'chest pain'],Semantic confusion
+deeper muscle twitches on thighs,Deeper muscle twitches on thighs,twitching in thighs,"['spasms in upper thighs' 'muscle twitches' 'Muscle twitches'
+ 'Deeper muscle twitches on arms sides' 'twitching in thighs']",Semantic confusion
+extreme dehydration,extreme dehydration,dehydration,"['Extreme tiredness' 'extreme bloating' 'EXTREME EXHAUSTION'
+ 'extreme sweating' 'dehydration']",Semantic confusion
+heart attacks,heart attacks,heart attack,"['feeling like I am having a heart attack' 'damage your heart'
+ 'intense heart pain' 'heart damage' 'heart attack']",Semantic confusion
+throat pain,throat pain,hurts throat,"['swelling in throat' 'throat tightness' 'swelling of throat'
+ 'sore throat' 'hurts throat']",Semantic confusion
+numbness and tingling in my hands,numbness and tingling in my hands,numbness in my hands,"['tingling hands' 'tingling in the hands' 'Severe numbness in hand'
+ 'tingling in hands' 'numbness in my hands']",Semantic confusion
+muscle knots up,muscle knots up,knotting muscles,"['Muscle Stiffness' 'muscle stiffness' 'muscle stiffness'
+ 'muscle stiffness' 'knotting muscles']",Semantic confusion
+feet pain,feet pain,pain in feet,['foot pain' 'feet pains' 'feet pains' 'pain in feet' 'pain in feet'],Semantic confusion
+pain in shoulder joint,pain in shoulder joint,Joint pain in shoulder,"['pain in shoulder' 'pain in shoulder' 'Pain in shoulder'
+ 'pain in shoulder' 'Joint pain in shoulder']",Semantic confusion
+extrem pain in knee joints,extrem pain in knee joints,Joint pain in the knees,"['severe knee pain' 'Severe knee pain' 'pain in knee' 'Pain in knees'
+ 'Joint pain in the knees']",Semantic confusion
+cannot walk,cannot walk,Unable to walk,"['unable to walk' 'Unable to walk' 'unable to walk' 'unable to walk'
+ 'unable to walk']",Semantic confusion
+burning feet,Burning feet,burning feet,"['burning feet in toe area' 'burning in the soles of my feet'
+ 'burning feet' 'burning feet' 'Burning feet']",Lexical variation
+black outs,black outs,blackouts,['blisters' 'blisters' 'ZONED OUT' 'stool was black' 'blackouts'],Semantic confusion
+weakness in upper arm muscles,weakness in upper arm muscles,muscle weakness,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'Muscle weakness'
+ 'muscle weakness']",Semantic confusion
+intense pelvic pain,intense pelvic pain,lower pelvic pain,"['severe pains' 'extreme uterine cramping' 'uterus pain and cramping'
+ 'deep pain in my pelvis and down my legs' 'lower pelvic pain']",Semantic confusion
+pain when i sit down or stand from a sitting position,pain when I sit down or stand from a sitting position,Unable to sit,"['pain in legs' 'discomfort in my legs' 'pain in the knees and feet'
+ 'Pain in lower legs' 'Unable to sit']",Semantic confusion
+cannot sleep through the night,cannot sleep through the night,can not sleep,"[""couldn't sleep at night"" ""can't even sleep at night"" 'cant sleep'
+ ""can't sleep"" 'can not sleep']",Semantic confusion
+gastroent,gastro/ent,gassy,['gas' 'Gas' 'gastro problem' 'gassy' 'gassy'],Semantic confusion
+muscle function irregularities,muscle function irregularities,muscle issues,"['muscle problems' 'muscle problems' 'muscle problems' 'muscle problems'
+ 'muscle issues']",Semantic confusion
+constipation,constipation,Constipation,"['Constipation' 'constipation' 'Constipation' 'constipation'
+ 'constipation']",Lexical variation
+stiffness in hips,stiffness in hips,aches and stiffness hips,"['stiffness in legs' 'Stiffness in legs' 'body stiffness'
+ 'sore and stiff hips' 'aches and stiffness hips']",Semantic confusion
+joints that bark at me,joints that bark at me,aching joints,"['painful joints' 'tender joints' 'joints aching' 'aching joints'
+ 'aching joints']",Semantic confusion
+my feet feel like i have stone bruises just in front of the heel,My feet feel like I have stone bruises just in front of the heel,pain in feet,"['severe pain in my feet' 'feet pains' 'feet pains' 'pain in feet'
+ 'pain in feet']",Semantic confusion
+raised blood pressure,raised blood pressure,INCREASED BLOOD PRESSURE,"['HIGH BLOOD PRESSURE' 'high blood pressure' 'Elevated blood pressure'
+ 'Increase in blood pressure' 'INCREASED BLOOD PRESSURE']",Semantic confusion
+finger pins and needles,finger pins and needles,PINS AND NEEDLES,"['pins and needles on right arm' 'Constant pins and needles in the toes'
+ 'pins and needles feeling' 'Pins and needles' 'PINS AND NEEDLES']",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+vivid weird dreams,vivid weird dreams,weird dreams,"['bad dreams' 'bad dreams nightly' 'vivid nightmares' 'Abnormal Dreams'
+ 'weird dreams']",Semantic confusion
+pain in elbows,Pain in elbows,Joint pain in elbows,"['elbow pain' 'Pain in elbow' 'Joint pain (elbows!)' 'Pain in both elbows'
+ 'Joint pain in elbows']",Semantic confusion
+blurred vision,Blurred vision,blurred vision,"['blurred vision' 'blurred vision' 'blurred vision' 'blurred vision'
+ 'Blurred vision']",Lexical variation
+constipation,constipation,Constipation,"['Constipation' 'constipation' 'Constipation' 'constipation'
+ 'constipation']",Lexical variation
+thinning at the back and sides of my head,thinning at the back and sides of my head,Hair thinning,"['hair is getting very thin' 'thining hair' 'hair thinning'
+ 'Hair thinning' 'hair thinning']",Semantic confusion
+excessive mestrual bleeding,excessive mestrual bleeding,heavy menstrual bleeding,"['extended bleeding during menstruation' 'bleeding constantly'
+ 'menstruating with heavy bleeding every 11 days'
+ 'heavy menstrual bleeding' 'heavy menstrual bleeding']",Semantic confusion
+pain in my buttocks,pain in my buttocks,buttocks cramps,"['pain in my legs' 'pain in my legs' 'pain in the knees and feet'
+ 'PAIN IN MY KNEES' 'buttocks cramps']",Semantic confusion
+pains hips,pains hips,pains in hips,['hips hurt' 'pain in hips' 'pain in hips' 'hips pain' 'pains in hips'],Semantic confusion
+tiredness in leg,tiredness in leg,Legs feel tired,"['tiredness' 'muscle weariness in legs' 'fatigue in legs'
+ 'legs began feeling very tired' 'Legs feel tired']",Semantic confusion
+diarhea,Diarhea,diarhea,['diarrea' 'diarea' 'diarhhea' 'diarhea' 'Diarhea'],Lexical variation
+my toes ached,my toes ached,aching in toes,"['toes hurt' 'toes hurt' 'toes hurt' 'Toes became so painful'
+ 'aching in toes']",Semantic confusion
+flushing,flushing,body flushes,"['congestion with clear phlem' 'bathroom with the runs' 'drained'
+ 'complete body flushes (like a hot flash without the hot)' 'body flushes']",Semantic confusion
+severe muscle pain  especially in lower calfs of both legs,SEVERE muscle pain - especially in lower calfs of both legs,Severe pain in both calfs,"['pain in both calves and thighs' 'Severe pain in my calf muscles'
+ 'Severe muscle pain in calves' 'extreme leg pain in the calves'
+ 'Severe pain in both calfs']",Semantic confusion
+pain in major joints,pain in major joints,Pain in joints,"['painful joints' 'pain in my joints' 'pain in joints' 'Pain in joints'
+ 'pain in joints']",Semantic confusion
+twitch,twitch,twitching,['twitching mouth' 'twitching' 'twitching' 'twitching' 'twitching'],Semantic confusion
+disabled,disabled,permanently and totally disabled,"['debilitated' 'unmotivated' 'INABILITY TO FUNCTION' 'CRIPPLED'
+ 'permanently and totally disabled']",Semantic confusion
+mental malaise,mental malaise,malaise,['GENERAL MALAISE' 'malaise' 'malaise' 'Malaise' 'malaise'],Semantic confusion
+increased fatigue,increased fatigue,"fatigue, increased","['extreme fatigue' 'extreme fatigue' 'Constant fatigue'
+ 'increase in level of fatigue' 'fatigue, increased']",Semantic confusion
+back pain,back pain,Back pain,['back pain' 'back pain' 'back pain' 'back pain' 'back pain'],Lexical variation
+strained muscles,strained muscles,muscle strain,"['Sore muscle' 'muscle injury' 'muscle injury' 'weakened muscle'
+ 'muscle strain']",Semantic confusion
+hands are tingling,hands are tingling,tingling in hands,"['hands tingling' 'tingling hands' 'tingling hands' 'tingling hands'
+ 'tingling in hands']",Semantic confusion
+pain in my thighs,pain in my thighs,severe pain in my thighs,"['muscle pain in thighs' 'thigh pain' 'THIGH PAIN'
+ 'thighs muscle pain in the' 'severe pain in my thighs']",Semantic confusion
+palpatations,Palpatations,palpatations,"['palpitations' 'palpitations' 'heart palpatations' 'heart palpatations'
+ 'palpatations']",Semantic confusion
+passing blood and clots with stoals,passing blood and clots with stoals,blood clots,"['blood clots in urine' 'blood clots that traveled to my eye' 'clotting'
+ 'blood clots' 'blood clots']",Semantic confusion
+hardest on legs,hardest on legs,in legs weakness,['weak legs' 'weak legs' 'weak legs' 'Weak legs' 'in legs weakness'],Semantic confusion
+mmdepression,MMDepression,MS,['depresion' 'leathargy' 'deppression' 'wincing' 'MS'],Semantic confusion
+upset my stomach,upset my stomach,Upset stomach,"['seriously upset my stomach' 'Upset stomach' 'upset stomach'
+ 'upset stomach' 'Upset stomach']",Semantic confusion
+horrific cramps,horrific cramps,very severe cramps,['cramps' 'CRAMPS' 'bad cramps' 'severe cramps' 'very severe cramps'],Semantic confusion
+server pain,server pain,servere pain,['pain' 'pain' 'pain' 'pain' 'servere pain'],Semantic confusion
+pain in my arm and shoulder,pain in my arm and shoulder,pain in my shoulder,"['pain in shoulder' 'Pain in shoulder' 'pain in shoulder'
+ 'pain in shoulder' 'pain in my shoulder']",Semantic confusion
+gum infections,gum infections,gum trouble,['toothache' 'toothache' 'gum ulcerations' 'infections' 'gum trouble'],Semantic confusion
+elbows stiff,elbows stiff,Arm stiffness,"['knees stiff' 'joint stiffness' 'joint stiffness' 'Joint Stiffness'
+ 'Arm stiffness']",Semantic confusion
+right upper quadrant abdominal pain,right upper quadrant abdominal pain,discomfort in right side upper and lower of stomach area,"['abdominal pain' 'Abdominal pain' 'abdominal pain'
+ 'upper abdominal discomfort'
+ 'discomfort in right side upper and lower of stomach area']",Semantic confusion
+leg muscle and thigh problems,leg muscle and thigh problems,muscle problems legs,"['leg muscle discomfort' 'muscle pain in thighs'
+ 'thighs muscle pain in the'
+ 'severe thigh muscle pain (both legs involved)' 'muscle problems legs']",Semantic confusion
+drive is knocked down,drive is knocked down,loss of drive,"['collapse' 'falling over' 'feel like I got hit by a truck'
+ 'fell asleep while driving' 'loss of drive']",Semantic confusion
+massive triangular rash on my forehead,massive triangular rash on my forehead,skin rash,"['strange poisen-ivy like rash on chest and breast' 'rash on my wrist'
+ 'rash on upper left torso' 'skin rash back of my neck' 'skin rash']",Semantic confusion
+headache,headache,Headache,['headache' 'headache' 'headache' 'headache' 'Headache'],Lexical variation
+rashes,rashes,Rashes,['rash' 'rash' 'Rashes' 'Rashes' 'rashes'],Lexical variation
+severe depression,severe depression,Severe depression,"['severe depression' 'severe depression' 'severe depression'
+ 'severe depression' 'Severe depression']",Lexical variation
+not sure footed as i walked,not sure footed as I walked,could not walk 75 feet,"['unable to walk' 'unable to walk' 'walked like a 90 year old'
+ 'foot turned at right angle' 'could not walk 75 feet']",Semantic confusion
+severe back pains,Severe back pains,Severe back pain,"['severe pain in back' 'Severe back pain' 'Severe back pain'
+ 'Severe back pain' 'Severe back pain']",Semantic confusion
+abdominal cramping,abdominal cramping,SEVERE abdominal cramping,"['stomach cramping' 'stomach cramping' 'stomach cramping'
+ 'SEVERE abdominal cramping' 'Severe abdominal cramping']",Semantic confusion
+muscle aches,Muscle aches,muscle aches,"['muscle aches' 'muscle aches' 'muscle aches' 'muscle aches'
+ 'muscle aches']",Semantic confusion
+muscle weakness,Muscle weakness,muscle weakness,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'Muscle weakness'
+ 'muscle weakness']",Lexical variation
+aches and pain in both shoulders,aches and pain in both shoulders,extreme pain in both shoulders,"['pain in shoulders' 'pain in shoulders' 'pain in shoulders'
+ 'horrible pain in both shoulders' 'extreme pain in both shoulders']",Semantic confusion
+discomfort in my left hand,discomfort in my left hand,right hand has been hurting,"['pain in hands' 'Pain in hands' 'Severe (burning) pain in left hand'
+ 'hand pain' 'right hand has been hurting']",Semantic confusion
+psychosis,Psychosis,psychiatric,"['depression' 'Depressions' 'Mentally in a daze' 'hallucinations'
+ 'psychiatric']",Semantic confusion
+muscle inflamation,muscle inflamation,leg muscle inflamed,"['muscle damage' 'weakened muscle' 'muscle injury' 'muscle injury'
+ 'leg muscle inflamed']",Semantic confusion
+joint pain,JOINT PAIN,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Semantic confusion
+muscle aches,Muscle aches,muscle aches,"['muscle aches' 'muscle aches' 'muscle aches' 'muscle aches'
+ 'muscle aches']",Semantic confusion
+felt like removing my intestines,felt like removing my intestines,intestinal pain,"['feeling like my stomach is full and empty at the same time'
+ 'empty stomach feeling' '""empty stomach"" feeling'
+ 'intestinal/stomach pain' 'intestinal pain']",Semantic confusion
+joints poping and cracking,joints poping and cracking,cracking sensations in my joints,"['joints aching' 'stiff joints' 'stiff joints' 'joints hurt'
+ 'cracking sensations in my joints']",Semantic confusion
+aching pain in my arms,aching pain in my arms,pain in my arms,"['pain in my arms' 'pain in my arms' 'pain in my arms' 'pain in my arms'
+ 'pain in my arms']",Semantic confusion
+severe leg pains,SEVERE leg pains,severe leg pains,['leg pains' 'leg pains' 'Leg pains' 'Severe leg pain' 'severe leg pains'],Semantic confusion
+dizziness,dizziness,Dizziness,['dizziness' 'Dizziness' 'dizziness' 'Dizziness' 'dizziness'],Lexical variation
+more problems with my sinuses,More problems with my sinuses,sinus problems,"['sinus congestion' 'sinus problems' 'sinus problems' 'sinus problems'
+ 'sinus problems']",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+mind was starting to deteriorate,mind was starting to deteriorate,feeling like my mind is fading away,"['thinking problems' 'frequently unable to think clearly'
+ 'Absent mindendness,' 'Difficulty thinking'
+ 'feeling like my mind is fading away']",Semantic confusion
+movement is restricted and it is impossible to make a fist,movement is restricted and it is impossible to make a fist,can't make a fist,"['hands, have little or no grip'
+ 'severe limitation in movement in upper arm muscles'
+ 'restricted movement' 'movement is restricted' ""can't make a fist""]",Semantic confusion
+ached all over especially in legs,"ached all over, especially in legs",legs just ached,"['heavy aching legs' 'Aching in legs' 'legs ached' 'legs ached'
+ 'legs just ached']",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+pain,Pain,pain,['Pain' 'pain' 'pain' 'pain' 'pain'],Lexical variation
+anxiety,Anxiety,anxiety,['anxiety' 'anxiety' 'Anxiety' 'anxiety' 'anxiety'],Lexical variation
+aches in calf muscles,Aches in calf muscles,muscle aches in calves,"['soreness in calf muscles' 'Severe pain in my calf muscles'
+ 'pain in calf muscle' 'Very painful muscle aches in calves'
+ 'muscle aches in calves']",Semantic confusion
+neck ache,neck ache,neck pain,['Neck pain' 'neck pain' 'neck pain' 'neck pain' 'neck pain'],Semantic confusion
+clotting and horrible periods,"clotting, and horrible periods",heavy menstral bleeding with clots even though i had just finished my cycle a week before,"['heavy menstrual bleeding' 'heavy menstrual bleeding' 'clotting'
+ 'Bleeding problems'
+ 'heavy menstral bleeding with clots even though i had just finished my cycle a week before']",Semantic confusion
+flatulance,flatulance,Flatulance,"['Flatulence' 'flatulence' 'mild flatuelence' 'mild flatulance'
+ 'Flatulance']",Semantic confusion
+muscle fatigue,Muscle fatigue,Muscle Fatigue,"['extreme muscle fatigue' 'Extreme muscle fatigue' 'Muscle Fatigue'
+ 'muscle fatigue' 'Muscle Fatigue']",Semantic confusion
+muscle pain,Muscle pain,muscle pain,['muscle pain' 'muscle pain' 'muscle pain' 'muscle pain' 'Muscle pain'],Lexical variation
+minor joint soreness,Minor joint soreness,sore joints,"['severe joint pains' 'Very sore and achy joints' 'sore joints'
+ 'Sore joints' 'sore joints']",Semantic confusion
+weakness in muscles,weakness in muscles,muscle weakness,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'muscle weakness'
+ 'Muscle weakness']",Semantic confusion
+muscle soreness,muscle soreness,MUSCLE SORENESS,"['overall muscle soreness' 'soreness in muscles' 'muscle soreness'
+ 'muscle soreness' 'MUSCLE SORENESS']",Lexical variation
+inablity to walk,inablity to walk,difficulty to walk,"['hard time walking' 'Difficult to walk' 'dificultly in walking'
+ 'unsteasiness walking' 'difficulty to walk']",Semantic confusion
+dry joints,dry joints,tender joints,"['aching joints' 'aching joints' 'stiff joints' 'stiff joints'
+ 'tender joints']",Semantic confusion
+limits my ability climb stairs,limits my ability climb stairs,unable to climb stairs,"['difficulty walking up stairs' ""couldn't go up stairs easily""
+ ""Can't walk up stairs"" 'Unable to even climb 1 flight of stairs'
+ 'unable to climb stairs']",Semantic confusion
+charley horses in feet,Charley horses in feet,charley horses in feet,"['Charley horses in the abdomen' 'charley horses in sides'
+ 'charley horses' 'charley horses in feet' 'charley horses in feet']",Semantic confusion
+sudden onset of pain,sudden onset of pain,intermittent pain,"['constant pain' 'pain throughout my body' 'extreme constant pain'
+ 'severe pains' 'intermittent pain']",Semantic confusion
+severe calf pain,severe calf pain,intense calf pain,['calf pain' 'Calf Pain' 'calf pain' 'CALF PAIN' 'intense calf pain'],Semantic confusion
+pain in my hip,pain in my hip,Pain in hip,['hip pain' 'hip pain' 'hip pain' 'pain in hip' 'Pain in hip'],Semantic confusion
+wrist joints sore,wrist joints sore,arm joints sore,['wrist pain' 'wrist pain' 'wrist pain' 'wrist pain' 'arm joints sore'],Semantic confusion
+pain unbearable,pain unbearable,severe pain,['severe pain' 'severe pain' 'severe pain' 'Severe pain' 'severe pain'],Semantic confusion
+eye problems,eye problems,Eye problem,"['severe vision problems' 'eye pain' 'eyesight problems' 'eye trouble'
+ 'Eye problem']",Semantic confusion
+difficult to concentrate,difficult to concentrate,inability to concentrate,"['lack of ability to concentrate' 'unable to concentrate'
+ 'not being able to concentrate' 'inability to concentrate'
+ 'inability to concentrate']",Semantic confusion
+sleepy all or most sf the time,sleepy all or most sf the time,sleepy,"['tired all the time' 'tired all the time' 'tired all the time' 'sleepy'
+ 'sleepy']",Semantic confusion
+persistent fatigue,persistent fatigue,Constant fatigue,"['extreme fatigue' 'extreme fatigue' 'extreme fatigue' 'extreme fatigue'
+ 'Constant fatigue']",Semantic confusion
+hardly able to lift things,hardly able to lift things,limits my ability lift anything,"['unable to lift my legs' ""couldn't lift my arms or legs""
+ 'could not lift arm' 'could hardly lift a glass'
+ 'limits my ability lift anything']",Semantic confusion
+muscles of whole body dilution in size,muscles of whole body dilution in size,over-streesed muscles,"['muscle problem' 'muscles have diminished' 'muscles very tight'
+ ""muscles are like boards they're so tight"" 'over-streesed muscles']",Semantic confusion
+symptoms of parkisons disease,symptoms of Parkison's disease,symptoms of parkinson's disease,"['flu-like symptoms' 'flu-like symptoms'
+ 'arthritis like symptoms in hands'
+ 'weird symptoms (eg. popping) in big toe joints'
+ ""symptoms of parkinson's disease""]",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+can barely make it up one flight of stairs,can barely make it up one flight of stairs,Unable to even climb 1 flight of stairs,"['could not walk up the stairs' 'difficulty walking up stairs'
+ ""Can't walk up stairs"" ""couldn't go up stairs easily""
+ 'Unable to even climb 1 flight of stairs']",Semantic confusion
+upset stomach,upset stomach,Upset stomach,"['stomach upset' 'upset stomach' 'Upset stomach' 'Upset stomach'
+ 'upset stomach']",Lexical variation
+calves muscle pain in,calves muscle pain in,Severe muscle pain in calves,"['Very painful muscle aches in calves' 'Severe pain in my calf muscles'
+ 'severe pain in calves' 'pain in calf muscle'
+ 'Severe muscle pain in calves']",Semantic confusion
+unable to stand,unable to stand,trouble standing for longer periods of time,"['not being able to walk' 'could barely stand and walk'
+ 'dificult to stand or walk for too long' 'Unable to sit'
+ 'trouble standing for longer periods of time']",Semantic confusion
+ankles started aching,ankles started aching,ankles ache so bad,"['pain in ankles' 'sore ankles' 'sore ankles' 'sore ankles'
+ 'ankles ache so bad']",Semantic confusion
+spinning head,spinning head,dizzy,['dizzy' 'dizzy' 'dizzy' 'dizzy' 'dizzy'],Semantic confusion
+aches in hands,aches in hands,pains in hands,"['Pain in my hands' 'very bad pains in hands' 'Pain in hands'
+ 'pain in hands' 'pains in hands']",Semantic confusion
+heart attack symptoms,heart attack symptoms,feeling like I am having a heart attack,"['Chest muscle pains' 'intense chest pains' 'intense heart pain'
+ 'heart attack' 'feeling like I am having a heart attack']",Semantic confusion
+tremor,tremor,Tremor,['tremor' 'Tremor' 'tremor' 'tremor' 'tremor'],Lexical variation
+hand tremors,hand tremors,tremors,['tremor' 'Tremor' 'tremor' 'tremor' 'tremors'],Semantic confusion
+neck pain,NECK PAIN,neck pain,['neck pain' 'neck pain' 'Neck pain' 'neck pain' 'neck pain'],Semantic confusion
+tummy pains,tummy pains,stomach pains,"['stomach pains' 'Stomach pains' 'stomach pains' 'Stomach pains'
+ 'stomach pains']",Semantic confusion
+severe pain in the muscles in the shoulder area,severe pain in the muscles in the shoulder area,muscle pain in the shoulder,"['severe shoulder pain' 'Severe muscle pain in shoulders'
+ 'severe pain in shoulder' 'Shoulder muscle pain'
+ 'muscle pain in the shoulder']",Semantic confusion
+urination effected,urination effected,no control over urination,"[""couldn't urinate"" 'urinary incontinence' 'urge to urinate constantly'
+ 'Difficulty urinating' 'no control over urination']",Semantic confusion
+difficulty in walking,DIFFICULTY IN WALKING,difficulty walking,"['Difficult to walk' 'trouble walking' 'difficulty to walk'
+ 'difficulty walking' 'difficulty walking']",Semantic confusion
+severe joint pain in the knees,Severe joint pain in the knees,Joint pain in the knees,"['severe joint pains' 'Pain in knees' 'severe pain in my knees'
+ 'joint pain (knees)' 'Joint pain in the knees']",Semantic confusion
+could not walk,COULD NOT WALK,could not walk,"[""couldn't walk"" 'could not walk' 'could not walk' 'could not walk'
+ 'could not walk']",Semantic confusion
+calves muscle pain in the,calves muscle pain in the,Severe muscle pain in calves,"['Very painful muscle aches in calves' 'Severe pain in my calf muscles'
+ 'severe pain in calves' 'pain in calf muscle'
+ 'Severe muscle pain in calves']",Semantic confusion
+short term memory dysfunction,short term memory dysfunction,Short term memory affected,"['short term memory loss' 'short term memory loss'
+ 'short term memory loss' 'short term memory loss'
+ 'Short term memory affected']",Semantic confusion
+wild dreams,wild dreams,weird dreams,"['nightmares' 'bad dreams nightly' 'bad dreams' 'bad dreams'
+ 'weird dreams']",Semantic confusion
+some sort of gi problems,some sort of G.I. problems,GI difficulties,"['memeory problems' 'GI hemmorage' 'GI bleed' 'GI distress'
+ 'GI difficulties']",Semantic confusion
+severe diarrhea,SEVERE diarrhea,massive diarrhea,['diarrhea' 'diarrhea' 'diarrhea' 'Diarrhea' 'massive diarrhea'],Semantic confusion
+stiffness in whole body,stiffness in whole body,body stiffness,"['Muscle Stiffness' 'muscle stiffness' 'Stiffness of limbs'
+ 'general body stiffness' 'body stiffness']",Semantic confusion
+lost all strength,lost all strength,losing strength,"['loss of strength' 'loss of strength' 'loss of strength'
+ 'Lost muscular strength' 'losing strength']",Semantic confusion
+breathing difficulties,breathing difficulties,difficulty breathing,"['difficulty/shallow breathing' 'difficulty breathing'
+ 'difficulty breathing' 'difficulty breathing' 'difficulty breathing']",Semantic confusion
+left shoulder is terribly painful,left shoulder is terribly painful,"severe pain in left shoulder,","['Pain in shoulder' 'severe intense left arm and shoulder pain'
+ 'Extreme Right Shoulder Pain' 'left shoulder aches'
+ 'severe pain in left shoulder,']",Semantic confusion
+irretractable lower back pain,irretractable lower back pain,lower back pain,"['lower back pain' 'lower back pain' 'LOWER BACK PAIN' 'lower back pain'
+ 'lower back pain']",Semantic confusion
+in arms tingling,in arms Tingling,arms tingling in,"['tingling in my arms' 'tingling in my arms' 'tingling in my arms'
+ 'tingling in arms' 'arms tingling in']",Semantic confusion
+sense of eye drooping,sense of eye drooping,diminished eyesight,"['eyes feeling of pressure' 'Eye sight appeared foggy'
+ 'sudden loss of vision' 'eyes spaced out feeling' 'diminished eyesight']",Semantic confusion
+kidney problems,KIDNEY PROBLEMS,kidney problems,"['kidney pain' 'kidney pain' 'kidneys hurt' 'KIDNEY TROUBLES'
+ 'kidney problems']",Semantic confusion
+gastric problems,gastric problems,gastric pain,"['major gastrointestinal problems' 'gastro problem' 'gastric upsets'
+ 'Gastrointestinal problems' 'gastric pain']",Semantic confusion
+joint pain,JOINT PAIN,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Semantic confusion
+anemia,anemia,septicaemia,['hematuria' 'anorexia' 'sickness' 'sickness' 'septicaemia'],Semantic confusion
+pain in my calves,pain in my calves,severe pain in calves,"['calf pain' 'calf pain' 'Calf Pain' 'Severe muscle pain in calves'
+ 'severe pain in calves']",Semantic confusion
+sexual dysfunction,sexual dysfunction,lack of sexual drive,"['Lack libido' 'sex drive' 'loss of sexual drive' 'lack of sexual desire'
+ 'lack of sexual drive']",Semantic confusion
+cough heavily,cough heavily,cough,['cough' 'cough' 'cough' 'cough' 'cough'],Semantic confusion
+numbness in toes,Numbness in toes,numbness in toes,"['numbness in ankles and toes' 'numb toes' 'Numbness in all of my toes'
+ 'Numbness in all toes' 'numbness in toes']",Semantic confusion
+rashes,rashes,Rashes,['rash' 'rash' 'Rashes' 'Rashes' 'rashes'],Lexical variation
+severe pain in buttocks,severe pain in buttocks,buttocks cramps,"['Severe hip & feet pain' 'Terrible pain in hips'
+ 'pain in the knees and feet' 'severe pain in my thighs' 'buttocks cramps']",Semantic confusion
+jittery,jittery,Stuttering,['twitching' 'twitching' 'twitching' 'twitching' 'Stuttering'],Semantic confusion
+headache,headache,Headache,['headache' 'headache' 'headache' 'headache' 'Headache'],Lexical variation
+constant achingpain,Constant aching/pain,aching,"['Aching over my entire body' 'constant pain' 'constant pain'
+ 'constant pain' 'aching']",Semantic confusion
+problems concentrating,Problems concentrating,trouble concentrating,"['dificulty in concentrating' 'not concentrating well' 'concentrating'
+ 'trouble concentrating' 'trouble concentrating']",Semantic confusion
+frequent sudden urges to go pee that came out with a force that sprayed everywhere,frequent sudden urges to go pee that came out with a force that sprayed everywhere,urge to urinate constantly,"['Difficulty urinating' ""couldn't urinate"" 'urine leaking'
+ 'no control over urination' 'urge to urinate constantly']",Semantic confusion
+cataract,cataract,worsening cataract,"['blurred vision' 'Blurred vision' 'Eye problem' 'vision impaired'
+ 'worsening cataract']",Semantic confusion
+return of my period,return of my period,my cycle was back (I'm menopausal ),"['post-menopausal and have now had a six day period' 'period another'
+ ""cycle was back (I'm menopausal )"" 'brought my period on'
+ ""my cycle was back (I'm menopausal )""]",Semantic confusion
+times at night to pee normally  or,5-6 times at night to pee; normally 1 or 2,urge to urinate constantly,"['no control over urination' 'dark urine' 'dark urine'
+ ""I'm up all night in bathroom"" 'urge to urinate constantly']",Semantic confusion
+hand writting had deteriorated,hand writting had deteriorated,lost all ability to control hands,"['hand weakness (constantly dropping things)' 'Severe numbness in hand'
+ 'right hand has been getting numb' 'hand pain'
+ 'lost all ability to control hands']",Semantic confusion
+memory weakened,memory weakened,loss of memory,"['Loss of memory' 'loss of memory' 'loss of memory' 'LOSS OF MEMORY'
+ 'loss of memory']",Semantic confusion
+less muscle mass,Less muscle mass,decrease in muscle strength,"['loss of muscle strength' 'muscles have diminished'
+ 'loss of muscle mass in arms' 'loss of muscle mass in arms'
+ 'decrease in muscle strength']",Semantic confusion
+feel like a bubble of air is stuck in my chest,feel like a bubble of air is stuck in my chest,Weird tight feeling in chest cavity,"['chest discomfort' 'chest aches' 'chest hurt' 'chest ache'
+ 'Weird tight feeling in chest cavity']",Semantic confusion
+agitation,agitation,Extreme agitation,"['irritability' 'irritability' 'violent anger' 'agitated'
+ 'Extreme agitation']",Semantic confusion
+muscle pain in my chest,muscle pain in my chest,Chest muscle pains,"['muscles in my chest started aching'
+ 'muscles pain on the left side of my chest' 'pain in chest'
+ 'Muscle aches in chest' 'Chest muscle pains']",Semantic confusion
+dizziness,dizziness,Dizziness,['dizziness' 'Dizziness' 'dizziness' 'Dizziness' 'dizziness'],Lexical variation
+sleep disturbance,sleep disturbance,sleep disturbances,"['loss of sleep' 'sleep loss' 'Constant sleepiness'
+ 'Disturbed sleep patterns' 'sleep disturbances']",Semantic confusion
+hurt to stand,hurt to stand,Hurt to get up,['knee hurt' 'knee hurt' 'Feet still hurt' 'hurt' 'Hurt to get up'],Semantic confusion
+very painful muscle aches back,very painful muscle aches back,Very painful muscle aches in lower back,"['muscle aches in my lower back' 'Muscle Pain in upper back'
+ 'muscle pain in back' 'Slight muscle aches in my back'
+ 'Very painful muscle aches in lower back']",Semantic confusion
+severe insomnia,severe insomnia,insomnia,['insomnia' 'insomnia' 'Insomnia' 'insomnia' 'insomnia'],Semantic confusion
+joint aches in calves,joint aches in calves,calves joint pain in,"['calf pains' 'severe pain in calves'
+ 'Very painful muscle aches in calves' 'muscle aches in calves'
+ 'calves joint pain in']",Semantic confusion
+falling asleep all the time,falling asleep all the time,fall asleep,"['trouble sleeping' 'trouble sleeping' 'sleep disturbances'
+ 'lack of sleep' 'fall asleep']",Semantic confusion
+pain traveling to my buddocks,pain traveling to my buddocks,Pain trying to walk,"['constant pain' 'constant pain' 'constant pain'
+ 'pain has been so intense' 'Pain trying to walk']",Semantic confusion
+urge to urinate,urge to urinate,urge to urinate constantly,"['urinary incontinence' ""couldn't urinate"" 'Difficulty urinating'
+ 'no control over urination' 'urge to urinate constantly']",Semantic confusion
+fatigued,Fatigued,fatigued,['FATIGUED' 'fatigued' 'fatigued' 'fatigued' 'fatigued'],Semantic confusion
+rush all over my face,rush all over my face,face looks puffy,['Exhaustion' 'exhaustion' 'falling over' 'MOVE SLOW' 'face looks puffy'],Semantic confusion
+week,week,WEEK,['confusion' 'confusion' 'Confusion' 'was incredibly week' 'WEEK'],Semantic confusion
+pulse was high,pulse was high,pulse is still extremely high,"['resting pulse jumped to between 100 and 105' 'rapid pulse' 'low pulse'
+ 'resting pulse had jumped to about 120' 'pulse is still extremely high']",Semantic confusion
+foggy,foggy,Foggy,['foggy vision' 'foggy-headedness' 'foggy brain' 'Foggy brain' 'Foggy'],Semantic confusion
+back pain in the am,back pain in the am,pain in back,"['Pain in back' 'pain in back' 'pain in back' 'pain in back'
+ 'pain in back']",Semantic confusion
+elevated creatine,elevated creatine,elevated Creatinine,"['elevated CPK' 'slightly elevated CPK' 'increase in cramping'
+ 'elevated CRP' 'elevated Creatinine']",Semantic confusion
+aching joints wrists,aching joints wrists,wrists pain,"['wrist pain' 'joints aching' 'aching joints' 'aching joints'
+ 'wrists pain']",Semantic confusion
+numbness in right toe,Numbness in right toe,numbness in left foot,"['Numbness in all of my toes' 'numb feet in toe area'
+ 'Numbness in all toes' 'numbness in toes' 'numbness in left foot']",Semantic confusion
+getting out of bed is painful,Getting out of bed is painful,moving in bed is painful,"['waking me up at night in pain' ""can't get out of bed""
+ 'unable to get out of bed' 'difficult for me to get out of bed'
+ 'moving in bed is painful']",Semantic confusion
+lower legs hurt,lower legs hurt,Pain in lower legs,"['pain in my lower leg' 'pain in my lower leg' 'Pain in my lower legs'
+ 'lower leg pain' 'Pain in lower legs']",Semantic confusion
+increased memory loss,increased memory loss,memory loss,['memory loss' 'memory loss' 'memory loss' 'memory loss' 'memory loss'],Semantic confusion
+strength depletion,strength depletion,loss of strength,"['losing strength' 'decrease in overall strength' 'loss of strength'
+ 'loss of strength' 'loss of strength']",Semantic confusion
+sleeping all day and night,Sleeping all day and night,not sleeping,['NO SLEEP' 'no sleep' 'no sleep' 'not sleeping' 'not sleeping'],Semantic confusion
+loss of hair,loss of hair,LOSS OF HAIR,['Hair loss' 'hair loss' 'Hair loss' 'loss of hair' 'LOSS OF HAIR'],Lexical variation
+feeling of impending doom,feeling of impending doom,Irrational feelings of impending doom,"['feeling like something was going to happen' 'FEELING OF DOOM'
+ 'impending doom' 'impending doom' 'Irrational feelings of impending doom']",Semantic confusion
+toes painful,toes painful,toes hurt,"['pain in toes and feet' 'Toes became so painful' 'toes hurt' 'toes hurt'
+ 'toes hurt']",Semantic confusion
+feeling tired a lot,feeling tired a lot,feeling tired all the time,"['feel tired' 'extremely tired feeling' 'always feeling tired'
+ 'feeling extremely tired' 'feeling tired all the time']",Semantic confusion
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+weakness,Weakness,weakness,['weakness' 'weakness' 'weakness' 'weakness' 'weakness'],Semantic confusion
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+knees hurt,knees hurt,Pain in knees,['knees aches' 'knee hurt' 'knee hurt' 'PAIN IN MY KNEES' 'Pain in knees'],Semantic confusion
+felt like i had the flu,felt like I had the flu,felt like I was coming down with flu,"['fluish feeling' 'feeling horrible like a severe flu just hit me'
+ 'aching (like the flu)' 'felt flu-like'
+ 'felt like I was coming down with flu']",Semantic confusion
+body was shutting down,"body was ""shutting"" down",went down muscles,"[""couldn't get out of bed"" 'legs were so weak and tired' 'belly blew up'
+ 'heart stopped' 'went down muscles']",Semantic confusion
+looseness in the body structure,looseness in the body structure,Muscle tightness,"['tightness' 'noticible loss of muscle structure' 'muscles very tight'
+ 'Muscle tightness' 'Muscle tightness']",Semantic confusion
+stomach cramps,Stomach cramps,stomach cramps,"['stomach cramps' 'stomach cramps' 'stomach cramps' 'stomach cramps'
+ 'stomach cramps']",Semantic confusion
+als,ALS,als,"['hoarseness/coughing' 'plugged ears' 'hoarse voice' 'symptoms of als'
+ 'als']",Semantic confusion
+stomach feels empty all the time,stomach feels empty all the time,"""empty stomach"" feeling","['Abdominal distention - feel full' 'stomach emptiness and pain'
+ 'feeling like my stomach is full and empty at the same time'
+ 'empty stomach feeling' '""empty stomach"" feeling']",Semantic confusion
+left leg iliotial band syndrome,left leg iliotial band syndrome,severe pain in left leg,"['pain in my left leg' 'restless leg syndrome' 'restless leg syndrome'
+ 'Restless Leg Syndrome' 'severe pain in left leg']",Semantic confusion
+extreme weakness,Extreme weakness,extreme weakness,['weakness' 'weakness' 'weakness' 'weakness' 'extreme weakness'],Semantic confusion
+bad muscle pains,bad muscle pains,Muscle pains,"['muscle pains' 'muscle pains' 'muscle pains' 'muscle pains'
+ 'muscle pains']",Semantic confusion
+flu like synptoms,Flu like synptoms,flu like syptoms,"['flu-symptoms' 'flu-like symtoms' 'flu like symtoms' 'flu-like syptoms'
+ 'flu like syptoms']",Semantic confusion
+suicidal,suicidal,suicide,"['thoughts about suicide' 'thoughts of suicide' 'suicidal thoughts'
+ 'suicidal depression' 'suicide']",Semantic confusion
+tiredness is at a high level,tiredness is at a high level,extreme tiredness,"['extreme tiredness' 'extreme tiredness' 'extreme tiredness'
+ 'extreme tiredness' 'extreme tiredness']",Semantic confusion
+joint pain,joint pain,Joint pain,['Joint Pain' 'joint pain' 'joint pain' 'JOINT PAIN' 'JOINT PAIN'],Lexical variation
+heavyextra vaginal bleeding,heavy/extra vaginal bleeding,heavy vaginal bleeding,"['vaginal bleeding' 'vaginal bleeding' 'vaginal bleeding'
+ 'heavy vaginal bleeding' 'heavy vaginal bleeding']",Semantic confusion
+numbness on left arm,Numbness on left arm,numbness in arms,"['Numbness on left side of face' 'numbness in left foot'
+ 'numbness in limbs' 'numbness on left side' 'numbness in arms']",Semantic confusion
+noise intolerance,noise intolerance,sever heat intolerance,"['tremors' 'feeling a fragility' 'exercise intolerance'
+ 'exercise intolerance' 'sever heat intolerance']",Semantic confusion
+didnt even decrease the pain a little bit,Didn't even decrease the pain a little bit,Pain was worse,"['Very bad pain' 'increasing pain' 'pain was too severe' 'worse pain'
+ 'Pain was worse']",Semantic confusion
+depression,Depression,depression,['depression' 'depression' 'depression' 'depression' 'depression'],Semantic confusion
+numbness,Numbness,numbness,['numbness' 'numbness' 'numbness' 'numbness' 'numbness'],Semantic confusion
+severe plantar faciitis,Severe plantar faciitis,plantar fasciatis,"['sore feet (Faciitis)' 'Planta fasciitis similarities'
+ 'plantar fasciitis of my left foot' 'plantar fasciitis in my feet'
+ 'plantar fasciatis']",Semantic confusion
+gasto discomfort,Gasto discomfort,gas pains,"['gas pains back' 'gas pains around my abdomen' 'gas pains in abdomen'
+ 'gastric pain' 'gas pains']",Semantic confusion
+muscle and joint pain,muscle and joint pain,Joint and muscle pain,"['JOINT PAIN' 'joint pain' 'joint pain' 'Joint pain'
+ 'Joint and muscle pain']",Semantic confusion
+nerves sensitivity,nerves sensitivity,nerve sensitivity,"['nerve damage' 'nerve damage' 'increased sensitivity to other drugs'
+ 'Nerve pain' 'nerve sensitivity']",Semantic confusion
+high cpk,high cpk,HIGH CPK,"['slightly elevated CPK' 'CPK was elevated' 'CPK elevated' 'elevated CPK'
+ 'HIGH CPK']",Semantic confusion
+headache,headache,Headache,['headache' 'headache' 'headache' 'headache' 'Headache'],Lexical variation
+achy joints,achy joints,Very sore and achy joints,"['achy legs' 'tender joints' 'aching joints' 'aching joints'
+ 'Very sore and achy joints']",Semantic confusion
+super dry skin,SUPER dry skin,dry skin,"['skin condition' 'skin is so dry' 'skin is so dry' 'skin is so dry'
+ 'dry skin']",Semantic confusion
+pains in my hip,pains in my hip,hip pains,['hip pain' 'Pain in hip' 'pain in hip' 'hip pains' 'hip pains'],Semantic confusion
+extreme tiredness,EXTREME TIREDNESS,Extreme tiredness,"['extreme tiredness' 'extreme tiredness' 'extreme tiredness'
+ 'Extreme tiredness' 'Extreme tiredness']",Semantic confusion
+felt like i had been run over by a truck,FELT LIKE I HAD BEEN RUN OVER BY A TRUCK,feel like I got hit by a truck,"['felt like I had lead in my legs' 'felt like I was having a stroke'
+ 'felt like I was having a stroke' 'felt like a truck hit me'
+ 'feel like I got hit by a truck']",Semantic confusion
+light headednessproblem keeping balance,light headedness(problem keeping balance),light headedness,"['light headed' 'light headed' 'light-headedness feeling'
+ 'light headedness' 'light headedness']",Semantic confusion
+eyes hurt,eyes hurt,eye pain,"['eyes spaced out feeling' 'eyes are bloodshot' 'Eye problem'
+ 'eye trouble' 'eye pain']",Semantic confusion
+loss of sex drive,loss of sex drive,loss of any sex drive,"['SEX DRIVE GONE' 'Sex drive has decreased' 'decreased sex drive'
+ 'loss of sexual drive' 'loss of any sex drive']",Semantic confusion
+neuropathy in left foot,neuropathy in left foot,pain in left foot,"['inability to walk with left foot pain' 'toe neuropathy' 'toe neuropathy'
+ 'numbness in left foot' 'pain in left foot']",Semantic confusion
+stiffness in joints,stiffness in joints,joint stiffness,"['stiff joints' 'stiff joints' 'Joint Stiffness' 'joint stiffness'
+ 'joint stiffness']",Semantic confusion
+right knee swelled,right knee swelled,swelling of right knee,"['Swollen knees' 'swelling in knee' 'knee swells' 'swelling at knee'
+ 'swelling of right knee']",Semantic confusion
+loss of muscle mass in face,loss of muscle mass in face,loss of muscle mass in arms,"['loss of muscle' 'loss of muscle mass in hands'
+ 'loss of muscle mass in chest' 'loss of muscle mass in arms'
+ 'loss of muscle mass in arms']",Semantic confusion
+tired most of the time,Tired most of the time,tired all the time,"['tired all the time' 'tired all the time' 'tired all the time'
+ 'tired all the time' 'tired all the time']",Semantic confusion
+muscle soreness,muscle soreness,MUSCLE SORENESS,"['overall muscle soreness' 'soreness in muscles' 'muscle soreness'
+ 'muscle soreness' 'MUSCLE SORENESS']",Lexical variation
+crippling back pain,crippling back pain,pain in back,"['pain in back' 'pain in back' 'Pain in back' 'pain in back'
+ 'pain in back']",Semantic confusion
+extremly bad pains in shoulders,extremly bad pains in shoulders,very bad pains in shoulders,"['extreme muscle pain in shoulders' 'extreme pain in both shoulders'
+ 'Terrible pain in shoulders' 'EXTREME PAIN IN SHOULDERS'
+ 'very bad pains in shoulders']",Semantic confusion
+ankles swelling,ankles swelling,swelling of ankles,"['swollen feet & ankles' 'sever swelling of ankles' 'swollen ankles'
+ 'Swollen ankles' 'swelling of ankles']",Semantic confusion
+pain on outer sides of thighs,pain on outer sides of thighs,Severe pain in both thighs,"['joint pain in thighs' 'muscle pain in thighs'
+ 'thighs muscle pain in the' 'severe pain in my thighs'
+ 'Severe pain in both thighs']",Semantic confusion
+calf leg cramps,calf leg cramps,Leg calf cramps,"['cramping of the calf muscles' 'Cramps in calves' 'calf muscle cramping'
+ 'calf cramps' 'Leg calf cramps']",Semantic confusion
+severe irregular heartbeat,severe irregular heartbeat,erratic heart beat,"['severe heart disease' 'skipping heart beats' 'irregullar heartbeat'
+ 'fast and slow heartbeat' 'erratic heart beat']",Semantic confusion
+language and learning ability loss including spoken and written aphasia and inability to read,language and learning ability loss including spoken and written aphasia and inability to read,decreased cognitive skills,"['speech difficulties like pronunciation' 'memory impaired'
+ 'loss of speech' 'impaired memory' 'decreased cognitive skills']",Semantic confusion
+sleepless nights,sleepless nights,sleeplessness,"['sleeplessness' 'Sleeplessness' 'sleeplessness' 'sleeplessness'
+ 'sleeplessness']",Semantic confusion
+swollen nasal passages,Swollen nasal passages,swells the nasal passages,"['swollen tongue' 'Facial swelling' 'swelling in throat'
+ 'swelling of throat' 'swells the nasal passages']",Semantic confusion
+extreme fatigue,Extreme fatigue,extreme fatigue,"['Extreme fatigue' 'extreme fatigue' 'extreme fatigue' 'extreme fatigue'
+ 'extreme fatigue']",Lexical variation
+little gas,little gas,gas,['gas' 'gas' 'gas' 'gas' 'gas'],Semantic confusion
+bad gas,bad gas,HORRIBLE GAS,['gas' 'gas' 'Excessive gas' 'excessive gas' 'HORRIBLE GAS'],Semantic confusion
+bursitis,bursitis,infections,"['sore back' 'peritonitis' 'severe infections' 'back soreness'
+ 'infections']",Semantic confusion
+very bad headaches,very bad headaches,terrible headaches,"['Severe headaches' 'severe headaches' 'bad headache' 'terrible headaches'
+ 'terrible headaches']",Semantic confusion
+dizzy,DIZZY,dizzy,['dizzy' 'dizzy' 'dizzy' 'dizzy' 'dizzy'],Semantic confusion
+deep pain like gas pains,deep pain- like gas pains,gas pains,"['gas pains around my abdomen' 'gas pains in abdomen' 'gas pains back'
+ 'gas pains in back' 'gas pains']",Semantic confusion
+nausia,nausia,diahrea,['nauseous' 'nauseous' 'Naseua' 'diahrea' 'diahrea'],Semantic confusion
+numbing of my feet,numbing of my feet,feet numbing,"['tingling of feet' 'numb toes' 'Numbness in all of my toes'
+ 'numbness in my feet' 'feet numbing']",Semantic confusion
+losing the feeling in his right hand,losing the feeling in his right hand,right hand has been getting numb,"['Hands numb' 'hands numb' 'strong tingling in one hand'
+ 'right hand has been hurting' 'right hand has been getting numb']",Semantic confusion
+cramped,cramped,tightness,['discomfort' 'discomfort' 'stiff' 'stiff' 'tightness'],Semantic confusion
+excrutiating pain,excrutiating pain,excruciating pain,"['excruciatig pain' 'excrutiation pain throughout my entire body'
+ 'excruciating pain' 'excruciating pain' 'excruciating pain']",Semantic confusion
+cant walk,can't walk,cant walk,"['unable to walk' 'unable to walk' 'unable to walk' 'UNABLE TO WALK'
+ 'cant walk']",Semantic confusion
+miniscus damage,miniscus damage,muscle damage,"['muscle damage' 'muscle damage' 'muscle damage' 'muscle damage'
+ 'muscle damage']",Semantic confusion
+upset stomache,upset stomache,Upset stomach,"['stomach upset' 'Upset stomach' 'upset stomach' 'Upset stomach'
+ 'upset stomach']",Semantic confusion
+peripheral neuropathy in feet and legs,peripheral neuropathy in feet and legs,Peripheral Neuropathy,"['toe neuropathy' 'peripheral neuropathy' 'peripheral neuropathy'
+ 'peripheral neuropathy' 'Peripheral Neuropathy']",Semantic confusion
+freezing coldlike arms plunged into freezing waterthen burning sensations,"freezing cold,like arms plunged into freezing water,then burning sensations",arm muscles melting,"['cold hands' 'burning sensations' 'burning sensations in hands'
+ 'burning in arms' 'arm muscles melting']",Semantic confusion
+constantly weak,constantly weak,weak all the time,['weak' 'weak' 'weak' 'Weak' 'weak all the time'],Semantic confusion
+leg cramps,LEG CRAMPS,leg cramps,['leg cramps' 'leg cramps' 'leg cramps' 'leg cramps' 'leg cramps'],Semantic confusion
+tremors although the body,tremors although the body,Tremor,['tremor' 'Tremor' 'tremor' 'tremor' 'tremor'],Semantic confusion
+numbness,Numbness,numbness,['numbness' 'numbness' 'numbness' 'numbness' 'numbness'],Semantic confusion
+heavy menstrual bleeding,Heavy menstrual bleeding,heavy menstrual bleeding,"['heavy vaginal bleeding' 'heavy vaginal bleeding'
+ 'menstruating with heavy bleeding every 11 days'
+ 'heavy menstrual bleeding' 'heavy menstrual bleeding']",Semantic confusion
+extreme tiredness,extreme tiredness,Extreme tiredness,"['extreme tiredness' 'extreme tiredness' 'extreme tiredness'
+ 'Extreme tiredness' 'Extreme tiredness']",Lexical variation
+uncharacteristical moodiness,uncharacteristical moodiness,moodiness,['moodiness' 'moodiness' 'moodiness' 'moodiness' 'moodiness'],Semantic confusion
+very severe pain in knees,Very severe pain in knees,severe pain in my knees,"['severe knee pain' 'SEVERE KNEE PAIN' 'Pain in knees'
+ 'intense pain in my knees' 'severe pain in my knees']",Semantic confusion
+extremely sick,extremely sick,sick,['feeling sick' 'sick' 'sick' 'sick' 'sick'],Semantic confusion
+lower legs have been hurting,Lower legs have been hurting,Pain in lower legs,"['pain in my lower leg' 'pain in my lower leg' 'lower leg pain'
+ 'Pain in my lower legs' 'Pain in lower legs']",Semantic confusion
+excruciating pain in shoulders,EXCRUCIATING PAIN IN SHOULDERS,pain in shoulders,"['Pain in the shoulders' 'EXTREME PAIN IN SHOULDERS' 'pain in shoulders'
+ 'pain in shoulders' 'pain in shoulders']",Semantic confusion
+constipation,Constipation,constipation,"['constipation' 'Constipation' 'constipation' 'constipation'
+ 'constipation']",Lexical variation
+hip joint pain,hip joint pain,pain of the hip joint,"['joint pain in my hips' 'Joint pain in the hips' 'Joint pain in hips'
+ 'Joint pain in hips' 'pain of the hip joint']",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+physical changes,physical changes,changes in physical activity,"['digestive changes' 'change in personality' 'declining physical ability'
+ 'emotional changes' 'changes in physical activity']",Semantic confusion
+little pain,little pain,pain,['pain' 'pain' 'pain' 'pain' 'pain'],Semantic confusion
+lousy sleeping at night,lousy sleeping at night,inability to sleep well,"['difficulty sleeping' 'Difficulty sleeping' 'Inability to Sleep'
+ 'can hardly sleep' 'inability to sleep well']",Semantic confusion
+mitochondrial dna mutations,Mitochondrial DNA mutations,muscle disintegration/degeneration,"['loss of muscle mass in arms' 'loss of muscle mass in arms'
+ 'muscle atrophy' 'noticible loss of muscle structure'
+ 'muscle disintegration/degeneration']",Semantic confusion
+severe mentrual cramps,severe mentrual cramps,mentstrual cramps,"['very severe cramps' 'menstrual cramps' 'menstrual cramps'
+ 'severe cramps' 'mentstrual cramps']",Semantic confusion
+dehydrated,dehydrated,dehydration,['drained' 'vomited' 'drained and tired' 'sweated' 'dehydration'],Semantic confusion
+tias,TIA's,syptoms similar to TIA,['aches' 'aches' 'aches' 'Aches' 'syptoms similar to TIA'],Semantic confusion
+bp was extrememly high,BP was extrememly high,BP was very low,['Increased BP' 'elevated BP' 'low bp' 'high BP' 'BP was very low'],Semantic confusion
+worst pain i have ever experienced,worst pain I have ever experienced,worse pain,"['intense, horrid pain' 'Very bad pain' 'Pain was worse' 'horrible pain'
+ 'worse pain']",Semantic confusion
+anzity,ANZITY,leathargy,['achiness' 'dizzines' 'dizzines' 'bloat' 'leathargy'],Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+swelling wrists,swelling wrists,wrists pain,"['wrist pain' 'wrist pain' 'swelling hands' 'wrists seized up'
+ 'wrists pain']",Semantic confusion
+contact pain where weight presses against things,contact pain where weight presses against things,Pain in hands,"['painful muscles' 'pains in hands' 'hand pain' 'Pain in hands'
+ 'pain in hands']",Semantic confusion
+back pain,back pain,Back pain,['back pain' 'back pain' 'back pain' 'back pain' 'back pain'],Lexical variation
+sensitivity,sensitivity,nerve sensitivity,"['increased sensitivity to other drugs' 'sun sensitivity'
+ 'sun sensitivity' 'sun sensitivity' 'nerve sensitivity']",Semantic confusion
+vertigo like symptons,VERTIGO LIKE SYMPTONS,severe vertigo,['vertigo' 'vertigo' 'vertigo' 'vertigo' 'severe vertigo'],Semantic confusion
+tingling in my feet,tingling in my feet,tingling of feet,"['tingling in my legs' 'tingling in the soles of my feet'
+ 'Tingling in toes and feet' 'sensations of tingling in my feet'
+ 'tingling of feet']",Semantic confusion
+joint pain,joint pain,Joint pain,['joint pain' 'joint pain' 'joint pain' 'joint pain' 'joint pain'],Lexical variation
+could not stop shaking,could not stop shaking,shaking,"['Very shaky' 'shaky' 'shaky' 'shaking with chills uncontrollably'
+ 'shaking']",Semantic confusion
+uterine cramping,uterine cramping,severe uterine cramping,"['menstrual cramps' 'uterus pain and cramping' 'extreme uterine cramping'
+ 'uterine cramps' 'severe uterine cramping']",Semantic confusion
+cold shivers,cold shivers,chills,['cold sweat' 'chills' 'chills' 'chills' 'chills'],Semantic confusion
+nerve pain,nerve pain,Nerve pain,"['permanent nerve damage' 'nerve damage' 'nerve damage' 'nerve damage'
+ 'Nerve pain']",Semantic confusion
+strength decrease dramatically,strength decrease dramatically,decrease in overall strength,"['loss of strength' 'loss of strength' 'loss of strength'
+ 'decrease in muscle strength' 'decrease in overall strength']",Semantic confusion
+severe pain,Severe pain,severe pain,['severe pain' 'severe pain' 'severe pain' 'Severe pain' 'severe pain'],Lexical variation
+lips started to swell,lips started to swell,slight swelling of cheeks,"['swollen tongue' 'swollen tongue' 'swelling face' 'Facial swelling'
+ 'slight swelling of cheeks']",Semantic confusion
+stomach aches,stomach aches,Stomach ache,"['stomach pains' 'Stomach pains' 'stomach pains' 'stomache aches'
+ 'Stomach ache']",Semantic confusion
+sweating alot,sweating alot,sweating a lot,['sweating' 'sweating' 'sweating' 'sweating a lot' 'sweating a lot'],Semantic confusion
+muscle soreness,muscle soreness,MUSCLE SORENESS,"['overall muscle soreness' 'soreness in muscles' 'muscle soreness'
+ 'muscle soreness' 'MUSCLE SORENESS']",Lexical variation
+finger numbness,finger numbness,numbness in fingers,"['numbness' 'numbness' 'numbness in my hands' 'numbness in fingers'
+ 'Numbness in fingers']",Semantic confusion
+ackey leg cramps,Ackey leg cramps,leg cramps,['leg cramps' 'leg cramps' 'leg cramps' 'leg cramps' 'leg cramps'],Semantic confusion
+severe muscle pain,severe muscle pain,Severe muscle pain,"['severe muscle pain' 'severe muscle pain' 'Severe muscle pain'
+ 'Severe muscle pain' 'severe muscle pain']",Lexical variation
+taste perversion,taste perversion,Taste perversion,"['decreased sense of taste' 'lost my sense of taste' 'taste loss'
+ 'altered taste' 'Taste perversion']",Semantic confusion
+cycle was back,cycle was back,cycle was back (I'm menopausal ),"['brought my period on' 'period another' 'pain back'
+ ""my cycle was back (I'm menopausal )"" ""cycle was back (I'm menopausal )""]",Semantic confusion
+i was eighty years old,I was eighty years old,eighty years old feeling,"['felt like an old (older) man' ""feel like I've aged 20 years""
+ 'never felt so old in my life' 'felt much older than I was'
+ 'eighty years old feeling']",Semantic confusion
+couldnt walk across the room,COULDN'T WALK ACROSS THE ROOM,could barely walk across the room,"['couldnt walk' ""could'nt walk"" ""couldn't walk"" ""couldn't walk""
+ 'could barely walk across the room']",Semantic confusion
+pain in side muscles on one side of chest,Pain in side muscles on one side of chest,muscles pain on the left side of my chest,"['pain in chest' 'Muscle aches in chest' 'Chest muscle pains'
+ 'chest pain left side' 'muscles pain on the left side of my chest']",Semantic confusion
+joints hurt,JOINTS HURT,joints hurt,"['painful joints' 'pain in joints' 'Pain in joints' 'pain in joints'
+ 'joints hurt']",Semantic confusion
+stomack pains,stomack pains,pains,['pains' 'pains' 'pains' 'pains' 'pains'],Semantic confusion
+skin felt like it was moving,skin felt like it was moving,skin was very red and rough,"['face has felt numb' 'skin was all red' 'skin was all red'
+ 'skin began to come off' 'skin was very red and rough']",Semantic confusion
+i felt like i always had the flu,i felt like I always had the flu,felt like I was coming down with flu,"['flu like symptoms' 'flu like symptoms'
+ 'feeling horrible like a severe flu just hit me' 'aching (like the flu)'
+ 'felt like I was coming down with flu']",Semantic confusion
+shortness of breath,Shortness of breath,shortness of breath,"['shortness of breath' 'shortness of breath' 'shortness of breath'
+ 'shortness of breath' 'shortness of breath']",Semantic confusion
+extreme pain in upper back area,Extreme pain in upper back area,extreme pain in back,"['severe pain in back' 'Muscle Pain in upper back'
+ 'Extreme lower back pain' 'Extreme back pain' 'extreme pain in back']",Semantic confusion
+loss of selfconfidence,loss of self-confidence,loss of desire to do or accomplish anything,"['lack of motivation' 'lack of motivation' 'lack of motivation'
+ 'lack of motivation' 'loss of desire to do or accomplish anything']",Semantic confusion
+migraine,migraine,worse migraines,"['Migranes' 'migranes' 'migrane headaches' 'migrane headaches'
+ 'worse migraines']",Semantic confusion
+extreme vertigo,Extreme vertigo,severe vertigo,['vertigo' 'vertigo' 'vertigo' 'vertigo' 'severe vertigo'],Semantic confusion
+forgetfullness,forgetfullness,forgetful,"['forgetfulness' 'forgetfulness' 'forgetfulness' 'forgetfulness'
+ 'forgetful']",Semantic confusion
+hurt to walk,hurt to walk,painful to walk,"['Difficult to walk' 'hard to walk' 'Pain trying to walk'
+ 'painful to walk' 'painful to walk']",Semantic confusion
+stomach pain,STOMACH PAIN,stomach pain,"['stomach pain' 'stomach pain' 'stomach pain' 'stomach pain'
+ 'stomach pain']",Semantic confusion
+pain in hands,pain in hands,Pain in hands,"['Pain in my hands' 'PAIN IN MY HANDS' 'pains in hands' 'pain in hands'
+ 'Pain in hands']",Lexical variation
+severe muscle pain,severe muscle pain,Severe muscle pain,"['severe muscle pain' 'severe muscle pain' 'Severe muscle pain'
+ 'Severe muscle pain' 'severe muscle pain']",Lexical variation
+short term memory issues,short term memory issues,short term memory problems,"['short term memory lacking' 'Terrible short term memory problems'
+ 'short term memory problems' 'Short term memory problems'
+ 'short term memory problems']",Semantic confusion
+lower gut pain,Lower gut pain,lower abdominal pain,"['abdominal pain' 'TERRIBLE abdominal pain' 'gut-renching abdominal pain'
+ 'sharp unbearable cramping pains in lower gut' 'lower abdominal pain']",Semantic confusion
+toes felt arthritic,toes felt arthritic;,aching in toes,"['pain in feet' 'pain in feet' 'feet joint pain similar to arthritis'
+ 'pain in toes and feet' 'aching in toes']",Semantic confusion
+pain severe,pain severe,severe pain,['severe pain' 'severe pain' 'Severe pain' 'severe pain' 'severe pain'],Semantic confusion
+could not walk up stairs with anything in my hands more than about  lbs,Could not walk up stairs with anything in my hands more than about 5-10 lbs,Can't walk up stairs,"['unable to climb stairs' 'difficulty walking up stairs'
+ 'could not walk up the stairs' ""couldn't go up stairs easily""
+ ""Can't walk up stairs""]",Semantic confusion
+tendinopathy,tendinopathy,tendinitis,"['Achilles Tendonsitis' 'tendonitis' 'tendonitis' 'tendonitis'
+ 'tendinitis']",Semantic confusion
+acid refluxtype symptoms,acid reflux-type symptoms,severe acid reflux,"['acid reflux' 'Acid Reflux' 'acid reflux' 'acid reflux'
+ 'severe acid reflux']",Semantic confusion
+tendon weakness,tendon weakness,tendon ruptures,"['Achilles Tendonsitis' 'achilles tendon tightness' 'tendon contracture'
+ 'tendon pain' 'tendon ruptures']",Semantic confusion
+frontal lobe abnormalities,Frontal Lobe abnormalities,neurological problems,"['nervous system problems' 'visual deficits' 'neurophaty'
+ 'Temporal Lobe epilepsy' 'neurological problems']",Semantic confusion
+loss of energy,loss of energy,Loss of energy,"['lack of energy' 'Decreased energy' 'ENERGY LOSS' 'loss of energy'
+ 'Loss of energy']",Lexical variation
+soreness of muscles,soreness of muscles,soreness in muscles,"['sore muscles' 'muscle soreness' 'muscle soreness' 'MUSCLE SORENESS'
+ 'soreness in muscles']",Semantic confusion
+swollen,swollen,swelling,['swelling' 'swelling' 'SWELLING' 'swelling' 'swelling'],Semantic confusion
+muscle cramping,Muscle cramping,muscles cramp,"['muscle cramps' 'muscle cramps' 'severe muscle cramping'
+ 'Severe muscle cramping' 'muscles cramp']",Semantic confusion
+hands hurt,hands hurt,Pain in hands,"['fingers hurt' 'pains in hands' 'hand pain' 'pain in hands'
+ 'Pain in hands']",Semantic confusion
+shoulders are inflammed,shoulders are inflammed,tightness in shoulders,"['pain in shoulders' 'pain in shoulders' 'pain in shoulders'
+ 'Pain in the shoulders' 'tightness in shoulders']",Semantic confusion
+neck swollen,neck swollen,very sore neck,['pain in neck' 'neck hurt' 'sore neck' 'sore neck' 'very sore neck'],Semantic confusion
+problems with tinnitus,problems with tinnitus,tinnitus,['tinnitus' 'Tinnitus' 'tinnitus' 'Tinnitus' 'tinnitus'],Semantic confusion
+general weakness in my feet,General weakness in my feet,General weakness in my hands,"['weakness in legs' 'weakness in legs' 'weakness in my legs'
+ 'weakness in my legs' 'General weakness in my hands']",Semantic confusion
+hands very weak,Hands very weak,weak in my arms and hands,"['General weakness in my hands' 'arms weak'
+ 'hand weakness (constantly dropping things)' 'general weakness in hands'
+ 'weak in my arms and hands']",Semantic confusion
+left shoulder is almost immobile,left shoulder is almost immobile,"severe pain in left shoulder,","['severe intense left arm and shoulder pain' 'Extreme Right Shoulder Pain'
+ 'Major stiffness in shoulder' 'left shoulder aches'
+ 'severe pain in left shoulder,']",Semantic confusion
+my stomach felt empty and hollow,my stomach felt empty and hollow,"""empty stomach"" feeling","['Abdominal distention - feel full' 'stomach emptiness and pain'
+ 'feeling like my stomach is full and empty at the same time'
+ 'empty stomach feeling' '""empty stomach"" feeling']",Semantic confusion
+tintinitus,tintinitus,tinninitus,['tinnitus' 'tinititis' 'tinnitis' 'tinnitis' 'tinninitus'],Semantic confusion
+vertigo,VERTIGO,vertigo,['vertigo' 'vertigo' 'vertigo' 'vertigo' 'vertigo'],Semantic confusion
+needed help getting out of bed and off a chair,needed help getting out of bed and off a chair,Difficulty getting up out of a chair,"['hurts to get out of a chair' ""can't get out of bed""
+ 'unable to get out of bed' 'unable to get out of chairs without help'
+ 'Difficulty getting up out of a chair']",Semantic confusion
+pain in the pit of my stomach,pain in the pit of my stomach,pain in my stomach,"['stomach pain' 'stomach pain' 'pain in stomach' 'pain in my stomach'
+ 'pain in my stomach']",Semantic confusion
+could barely move,Could barely move,could hardly move,"['could hardly walk' 'could hardly walk' 'could hardly walk'
+ 'could barely walk' 'could hardly move']",Semantic confusion
+itching of the skin,itching of the skin,skin itchiness,['itching' 'itching' 'itching' 'itching' 'skin itchiness'],Semantic confusion
+cluster headaches,cluster headaches,frequent headaches,['headache' 'headache' 'headache' 'headache' 'frequent headaches'],Semantic confusion
+memory,memory,Memory,"['memory problem' 'MEMORY TROUBLE' 'poor memory' 'memory confusion'
+ 'Memory']",Semantic confusion
+feel bad,feel bad,feel sick,"['Felt generally terrible' 'feel dreadful' 'ill feeling' 'feeling stupid'
+ 'feel sick']",Semantic confusion
+i feel like im in a fog,I feel like I'm in a fog,feel like I am in a fog,"['like Im in a fog all the time' 'feeling of being in a fog'
+ 'feeling in a fog' 'feel like I am in a fog' 'feel like I am in a fog']",Semantic confusion
+heavy legs,heavy legs,heavy legs and arms,['Weak legs' 'weak legs' 'weak legs' 'weak legs' 'heavy legs and arms'],Semantic confusion
+dizziness,dizziness,Dizziness,['dizziness' 'Dizziness' 'dizziness' 'Dizziness' 'dizziness'],Lexical variation
+dizziness,dizziness,Dizziness,['dizziness' 'Dizziness' 'dizziness' 'Dizziness' 'dizziness'],Lexical variation
+less patience,less patience,impatient,['lack of control' 'urgency' 'diziness' 'diziness' 'impatient'],Semantic confusion
+muscle aches in calves,Muscle aches in calves,muscle aches in calves,"['Severe pain in my calf muscles' 'pain in calf muscle'
+ 'Severe muscle pain in calves' 'Very painful muscle aches in calves'
+ 'muscle aches in calves']",Semantic confusion
+stomach gas and intense pain,stomach gas and intense pain,gas pains in abdomen,"['stomach pain' 'stomach pain' 'gas pains around my abdomen'
+ 'gastric pain' 'gas pains in abdomen']",Semantic confusion
+dizziness,dizziness,Dizziness,['dizziness' 'Dizziness' 'dizziness' 'Dizziness' 'dizziness'],Lexical variation
+muscle pain in hips,muscle pain in hips,severe muscle pain in hips,"['pains in hips' 'pain in hips' 'pain in hips' 'MUSCLE PAIN IN HIP'
+ 'severe muscle pain in hips']",Semantic confusion
+pain in my hipjoints,pain in my hipjoints,pain around the hipjoints,"['hip pain' 'hip pain' 'pain in hip' 'Pain in hip'
+ 'pain around the hipjoints']",Semantic confusion
+neck muscle pain,neck muscle pain,neck muscle pain in the,"['neck pain' 'neck pain' 'severe muscle pain in neck'
+ 'MUSCLE PAIN IN NECK' 'neck muscle pain in the']",Semantic confusion
+arrhythmia,arrhythmia,tachycardia,"['irrecular heartbeat' 'rapid heart beat' 'irregullar heartbeat'
+ 'fast and slow heartbeat' 'tachycardia']",Semantic confusion
+muscle weakness in plantar muscle,muscle weakness in plantar muscle,muscle weakness,"['muscle weakness' 'muscle weakness' 'muscle weakness' 'muscle weakness'
+ 'muscle weakness']",Semantic confusion
+shoulder pain was unbearable,shoulder pain was unbearable,severe shoulder pain,"['shoulder pain' 'shoulder pain' 'Severe pain shoulder'
+ 'severe pain in shoulder' 'severe shoulder pain']",Semantic confusion
+crave sweets,crave sweets,food cravings,"['high sugar attack' 'sugar started to go up' 'hunger feeling'
+ 'hungry feeling' 'food cravings']",Semantic confusion
+pain in my lower legs and feet,pain in my lower legs and feet,Pain in my lower legs,"['pain in my lower leg' 'pain in my lower leg' 'Pain in lower legs'
+ 'pain in feet and legs' 'Pain in my lower legs']",Semantic confusion
+mild aches,mild aches,aches and pains,"['Aches and pains' 'aches and pains' 'aches and pains' 'aches and pains'
+ 'aches and pains']",Semantic confusion
+want to give up,want to give up,wanting to quit everything and give up,"['lost all interest in everything'
+ 'loss of desire to do or accomplish anything' 'no motivation'
+ 'not motivated to do anything' 'wanting to quit everything and give up']",Semantic confusion
+charley horses in legs,charley horses in legs,charley horses in feet,"['Charley horses in the abdomen' 'charley horses'
+ 'charley horses in sides' 'charley horses in feet'
+ 'charley horses in feet']",Semantic confusion
+stiffness in leg joint,Stiffness in Leg Joint,stiffness in legs,"['joint stiffness' 'joint stiffness' 'Joint Stiffness' 'stiffness in legs'
+ 'Stiffness in legs']",Semantic confusion
